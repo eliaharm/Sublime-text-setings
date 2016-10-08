@@ -1,0 +1,37 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/All Hallow's Eve (Elia) (SL).tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ActionScript",
+		"AppleScript",
+		"ASP",
+		"Clojure",
+		"Graphviz",
+		"Groovy",
+		"Haskell",
+		"LaTeX",
+		"Lisp",
+		"Lua",
+		"Makefile",
+		"Matlab",
+		"OCaml",
+		"Pascal",
+		"Perl",
+		"PHP",
+		"Rails",
+		"Ruby",
+		"Rust",
+		"TCL",
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}

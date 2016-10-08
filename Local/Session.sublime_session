@@ -1,0 +1,596 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3126,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 600.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 648.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"Package Control;",
+					"Package Control",
+					"Package Control: Install Package"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/X/Documents/Elia/sql/Desktop/Tania Select transactions.sql"
+			],
+			"find":
+			{
+				"height": 78.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n                  b.clbt_code group_name,\n                  b.clbt_desc group_description,",
+					"b.clbt_type",
+					"b.clsg_code",
+					"b.cdlg_code",
+					"\n                  a.clnt_short_d loan_code,\n                  a.clnt_desc loan_type_description,",
+					"a.clnt_code",
+					"nvl(i.ecos_b_desc,'n/a')",
+					" i",
+					"h.curr_code||' '||h.curr_b_desc",
+					"h.",
+					"rp",
+					"''",
+					"||''|''||",
+					"s_year",
+					"s_month",
+					"s_year"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"c.cdld_clbt",
+					"c.cdld_clsg",
+					"c.cdld_cdlg",
+					"",
+					"c.cdld_clnt",
+					"c.cdld_ecos",
+					"c.CDLD_CURR",
+					"'",
+					",",
+					"s_year_2",
+					"s_month_2",
+					"s_month_1",
+					"s_year_1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 150.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "SELECT cdr_index||''|''|| cdr_number||''|''|| cdr_id||''|''|| name||''|''|| branch||''|''|| group_||''|''|| sub_group||''|''|| SUM(cdld_cr_lc)||''|''|| SUM(cdld_ut_lc)||''|''|| sent_to_cdr||''|''||\n  (SELECT nvl(s.sdec_b_desc,''N/A'')\n   FROM BBSD_CDRS_LIABILITIES_SUBID a,\n                                    bbsc_sect_domectic_ecos s\n   WHERE cdls_month='||:s_month||'\n     AND cdls_year='||:s_year||'\n     AND a.cdls_client_serial=1\n     AND s.sdec_iso=a.CDLS_CLASS_CODE\n     AND a.cdls_id=jj.cdr_id) ||''|''\nFROM\n  (SELECT ''A''||ROWNUM UNIQUEid,\n                 decode(d.cdrs_ind,''1'',''Customer'',''2'',''\n                        GROUP'') cdr_index,\n                 d.cdrs_nbr cdr_number,\n                 d.cdrs_id cdr_id,\n                 initcap(e.cgrm_b_name) name,\n                 j.cdlm_brch branch,\n                 b.cdlg_code group_,\n                 b.clsg_code sub_group,\n                 nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                 nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                 nvl(sent_to_cdr,''NO'') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = '||:s_year||'\n        AND cdrn_month = '||:s_month||'\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   ''O''||substr(''000000000''||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = '||:s_year||'\n           AND ac.cdrn_month = '||:s_month||') ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id)d,\n     (SELECT DISTINCT substr(v.CDRA_TEXT,6,9) cdr_nbr,\n                      ''Yes'' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year='||:s_year||'\n        AND v.cdra_month='||:s_month||') kk ,\n                                         bbsd_cust_groups_m e,\n                                         bbsc_cdr_icbs_codes g,\n                                         bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year='||:s_year||'\n     AND c.cdlm_month='||:s_month||'\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp =c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =b.cdlg_code\n     AND c.cdld_clsg=b.clsg_code\n     AND c.cdld_clbt=b.clbt_type\n     AND c.cdlm_id = d.cdrs_id\n     AND d.cdrs_ind=2\n     AND e.cgrm_code=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code\n   UNION SELECT ''B''||ROWNUM UNIQUEid,\n                       decode(d.cdrs_ind,''1'',''Customer'',''2'',''\n                              GROUP'') cdr_index,\n                       d.cdrs_nbr,\n                       d.cdrs_id ,\n                       initcap(f.cust_b_name) name,\n                       j.cdlm_brch branch,\n                       b.cdlg_code group_,\n                       b.clsg_code sub_group,\n                       nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                       nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                       nvl(sent_to_cdr,''NO'') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = '||:s_year||'\n        AND cdrn_month = '||:s_month||'\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   ''O''||substr(''000000000''||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = '||:s_year||'\n           AND ac.cdrn_month = '||:s_month||') ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id) d,\n     (SELECT DISTINCT substr(v.cdra_text,6,9) cdr_nbr,\n                      ''Yes'' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year='||:s_year||'\n        AND v.cdra_month='||:s_month||') kk ,\n                                         bbsd_customers f,\n                                         bbsc_cdr_icbs_codes g ,\n                                         bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year = '||:s_year||'\n     AND c.cdlm_month ='||:s_month||'\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp=c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =b.cdlg_code\n     AND c.cdld_clsg=b.clsg_code\n     AND c.cdld_clbt=b.clbt_type\n     AND c.cdlm_id = d.cdrs_id\n     AND cdrs_ind=1\n     AND f.cust_id=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code ) JJ\nWHERE JJ.group_=1\n  AND JJ.sub_Group=1\n  AND jj.sent_to_cdr=''Yes''\nGROUP BY cdr_index,\n         cdr_number,\n         cdr_id,\n         name,\n         branch,\n         group_,\n         sub_group,\n         sent_to_cdr\nORDER BY cdr_index,\n         cdr_number,\n         cdr_id,\n         group_,\n         sub_group;\n\n",
+					"settings":
+					{
+						"buffer_size": 5331,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\tselect \tcdr_index,\n\t\t\t\t\t\tcdr_number,\n\t\t\t\t\t\tcdr_id,\n\t\t\t\t\t\tname,\n\t\t\t\t\t\tbranch,\n\t\t\t\t  \tgroup_,\n\t\t\t\t  \tsub_group,\n\t\t\t\t  \ttype,\n\t\t\t\t  \tgroup_name,\n\t\t\t\t  \tgroup_description,\n\t\t\t\t  \tloan_type,\n\t\t\t\t  \tloan_code,\n\t\t\t\t  \tloan_type_description,\n\t\t\t\t  \tcurrency,\n\t\t\t\t  \tcdld_cr_lc,\n\t\t\t\t  \tcdld_ut_lc,\n\t\t\t\t  \tcdld_cr_fx,\n\t\t\t\t  \tcdld_ut_fx,\n\t\t\t\t  \teconomic_sector,\n\t\t\t\t  \trc,\n\t\t\t\t  \trp,\n\t\t\t\t  \tsent_to_cdr,\n\t\t  --\t(select  nvl(s.sdec_b_desc,'N/A')\n\t\t\t--\t\t\tfrom bbsd_customers c,\n\t\t\t--\t\t       bbsc_sect_domectic_ecos s\n     \t--  \t\twhere s.sdec_code=c.sdec_code\n      --\t\t\t\tand c.cust_id=jj.cdr_id)||'|'\n          (select nvl(s.sdec_b_desc,'N/A')\n            from BBSD_CDRS_LIABILITIES_SUBID a,\n                 bbsc_sect_domectic_ecos s\n            where cdls_month='||:s_month||'\n            \tand cdls_year='||:s_year||'  \n              and a.cdls_client_serial=1\n              and s.sdec_iso=a.CDLS_CLASS_CODE\n              and a.cdls_id=jj.cdr_id) ,\n           Credit_Portfolio ,\n           risk_country||'|'\n\t\tfrom(select  'A'||ROWNUM   UNIQUEid,\n\t\t\t\t\t        decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n\t\t\t\t\t        d.cdrs_nbr cdr_number,\n\t\t\t\t\t        d.cdrs_id cdr_id,\n\t\t\t\t\t        initcap(e.cgrm_b_name)  name,\n\t\t\t\t\t        j.cdlm_brch branch,\n\t\t\t\t\t        b.cdlg_code group_,\n\t\t\t\t\t        b.clsg_code sub_group,\n\t\t\t\t\t        b.clbt_type type,\n\t\t\t\t\t        b.clbt_code group_name,\n\t\t\t\t\t        b.clbt_desc group_description,\n\t\t\t\t\t        a.clnt_code loan_type,\n\t\t\t\t\t        a.clnt_short_d loan_code,\n\t\t\t\t\t        a.clnt_desc loan_type_description,\n\t\t\t\t\t        h.curr_code||' '||h.curr_b_desc  currency,\n\t\t\t\t\t        nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n\t\t\t\t\t        nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n\t\t\t\t\t        nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n\t\t\t\t\t        nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n\t\t\t\t\t        nvl(i.ecos_b_desc,'n/a') economic_sector,\n\t\t\t\t\t        c.cdld_risk_class      rc,\n\t\t\t\t\t        c.cdld_remain_period   rp,\n\t\t\t\t\t        nvl(sent_to_cdr,'No')  sent_to_cdr,\n                  decode(j.CDLM_CDCP_CODE,1,'Retail',2,'SME',3,'Corporate')       Credit_Portfolio,\n                  (SELECT distinct IX.CTRY_B_DESC || '|'||\n                          substr(LX.LCTY_B_DESC,1,instr(LX.LCTY_B_DESC,'-')-2)  ddd\n                     FROM (SELECT DISTINCT CDRI_CODE, \n                                     CDRI_ICBS_CODE  CTRY_CODE,\n                                     CDRI_ICBS_CODE_1  LCTY_CODE\n                             FROM BBSC_CDR_ICBS_CODES\n                               WHERE CDRI_CATEG = 12)       CX,\n                       BBSC_LOCALITIES LX,\n                       BBSC_COUNTRIES IX\n                          WHERE TO_CHAR(C.CDLD_UTIL_CTRY) = CX.CDRI_CODE\n                      AND CX.LCTY_CODE = LX.LCTY_CODE(+)\n                      AND CX.CTRY_CODE = IX.CTRY_CODE\n                      AND C.CDLM_YEAR = '||:s_year||'  \n                      AND C.CDLM_MONTH = '||:s_month||')   risk_country                   \t\t\t\t\t        \n\t\t\t\t\t   from bbsd_cdrs_liabilities_d   c,\n\t\t\t\t\t        bbsc_cdrs_loantypes       a,\n\t\t\t\t\t        bbsc_cdrs_libtypes        b,\n\t\t\t\t\t        (select   cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t         cdrn_id    cdrs_id,\n\t\t\t\t\t\t\t\t\t\t         cdrn_new   cdrs_nbr\n\t\t\t\t\t\t\t\t\t\t    from bbsd_cdrs_news\n\t\t\t\t\t\t\t\t\t\t   where cdrn_year = '||:s_year||'                                                                                                                                                                       \n\t\t\t\t\t\t\t\t\t\t         and cdrn_month = '||:s_month||'\n\t\t\t\t\t\t\t\t\tunion\t\n\t\t\t\t\t\t\t\t\t select aa.cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t      aa.cdrs_id,\n\t\t\t\t\t\t\t\t\t\t      'O'||substr('000000000'||aa.cdrs_nbr,-8)  cdrs_nbr\n\t\t\t\t\t\t\t       from bbsd_cust_cdrs  aa,\n\t\t\t\t\t\t\t\t\t\t      (select ab.cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t              ab.cdrs_id \n\t\t\t\t\t\t\t\t\t\t         from bbsd_cust_cdrs ab\n\t\t\t\t\t\t\t\t\t\t        minus\n\t\t\t\t\t\t\t\t\t\t      select  ac.cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t              ac.cdrn_id    cdrs_id\n\t\t\t\t\t\t\t\t\t\t         from bbsd_cdrs_news   ac\n\t\t\t\t\t\t\t\t\t\t        where ac.cdrn_year = '||:s_year||'                                                                                                                                                                      \n\t\t\t\t\t\t\t\t\t\t          and ac.cdrn_month = '||:s_month||')  ad\n\t\t\t\t\t\t\t\t\t\t where ad.cdrs_ind=aa.cdrs_ind\n\t\t\t\t\t\t\t\t\t\t   and ad.cdrs_id=aa.cdrs_id)d,\n\t\t\t\t\t        (select distinct\n\t\t\t\t\t                substr(v.cdra_text,6,9)  cdr_nbr,\n\t\t\t\t\t                'Yes'   sent_to_cdr\n\t\t\t\t\t           from bbsd_cdrs_avis    v\n\t\t\t\t\t          where v.cdra_year='||:s_year||'\n\t\t\t\t\t            and v.cdra_month='||:s_month||')  kk  ,\n\t\t\t\t\t        bbsd_cust_groups_m        e,\n\t\t\t\t\t        bbsc_cdr_icbs_codes       g,\n\t\t\t\t\t        bbsc_currencies           h,\n\t\t\t\t\t        bbsc_economic_sectors     i,\n\t\t\t\t\t        bbsd_cdrs_liabilities_m   j\n\t\t\t\t\t  where c.cdlm_year='||:s_year||'\n\t\t\t\t\t    and c.cdlm_month='||:s_month||'\n\t\t\t\t\t    and c.cdld_ecos=i.ecos_iso(+)\n\t\t\t\t\t    and j.cdlm_month=c.cdlm_month\n\t\t\t\t\t    and j.cdlm_year=c.cdlm_year\n\t\t\t\t\t    and j.cdlm_cust_grp =c.cdlm_cust_grp\n\t\t\t\t\t    and j.cdlm_id =c.cdlm_id\n\t\t\t\t\t    and d.cdrs_nbr=kk.cdr_nbr(+)\n\t\t\t\t\t    and c.cdld_cdlg =b.cdlg_code\n\t\t\t\t\t    and c.cdld_clsg=b.clsg_code\n\t\t\t\t\t    and c.cdld_clbt=b.clbt_type\n\t\t\t\t\t    and c.cdld_clnt=a.clnt_code\n\t\t\t\t\t    and c.cdlm_id = d.cdrs_id\n\t\t\t\t\t    and d.cdrs_ind=2\n\t\t\t\t\t    and e.cgrm_code=d.cdrs_id\n\t\t\t\t\t    and g.cdri_categ=8\n\t\t\t\t\t    and g.cdri_icbs_code=h.curr_code\n\t\t\t\t\t    and c.cdld_curr=g.cdri_code\n\t\t\tunion\n\t\t\t\tselect  'B'||ROWNUM   UNIQUEid,\n\t\t\t\t        decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n\t\t\t\t        d.cdrs_nbr,\n\t\t\t\t        d.cdrs_id ,\n\t\t\t\t        initcap(f.cust_b_name)  name,\n\t\t\t\t        j.cdlm_brch branch,\n\t\t\t\t        b.cdlg_code group_,\n\t\t\t\t        b.clsg_code sub_group,\n\t\t\t\t        b.clbt_type type,\n\t\t\t\t        b.clbt_code group_name,\n\t\t\t\t        b.clbt_desc group_description,\n\t\t\t\t        a.clnt_code loan_type,\n\t\t\t\t        a.clnt_short_d loan_code,\n\t\t\t\t        a.clnt_desc loan_type_description,\n\t\t\t\t        h.curr_code||' '||h.curr_b_desc  currency,\n\t\t\t\t        nvl(c.cdld_cr_lc,0)  cdld_cr_lc,\n\t\t\t\t        nvl(c.cdld_ut_lc,0)  cdld_ut_lc,\n\t\t\t\t        nvl(c.cdld_cr_fx,0)  cdld_cr_fx,\n\t\t\t\t        nvl(c.cdld_ut_fx,0)  cdld_ut_fx,\n\t\t\t\t        i.ecos_b_desc economic_sector,\n\t\t\t\t        c.cdld_risk_class rc,\n\t\t\t\t        c.cdld_remain_period rp,\n\t\t\t\t        nvl(sent_to_cdr,'No')  sent_to_cdr,\n                decode(j.CDLM_CDCP_CODE,1,'Retail',2,'SME',3,'Corporate')       Credit_Portfolio,\n                  (SELECT distinct IX.CTRY_B_DESC || '|'||\n                          substr(LX.LCTY_B_DESC,1,instr(LX.LCTY_B_DESC,'-')-2)  ddd\n                     FROM (SELECT DISTINCT CDRI_CODE, \n                                     CDRI_ICBS_CODE  CTRY_CODE,\n                                     CDRI_ICBS_CODE_1  LCTY_CODE\n                             FROM BBSC_CDR_ICBS_CODES\n                               WHERE CDRI_CATEG = 12)       CX,\n                       BBSC_LOCALITIES LX,\n                       BBSC_COUNTRIES IX\n                          WHERE TO_CHAR(C.CDLD_UTIL_CTRY) = CX.CDRI_CODE\n                      AND CX.LCTY_CODE = LX.LCTY_CODE(+)\n                      AND CX.CTRY_CODE = IX.CTRY_CODE\n                      AND C.CDLM_YEAR = '||:s_year||'  \n                      AND C.CDLM_MONTH = '||:s_month||')   risk_country                 \t\t\t\t        \n\t\t\t\t   from bbsd_cdrs_liabilities_d c,\n\t\t\t\t        bbsc_cdrs_loantypes  a,\n\t\t\t\t        bbsc_cdrs_libtypes       b,\n\t\t\t\t        (select    cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t\t\t         cdrn_id    cdrs_id,\n\t\t\t\t\t\t\t\t\t         cdrn_new   cdrs_nbr\n\t\t\t\t\t\t\t\t\t    from bbsd_cdrs_news\n\t\t\t\t\t\t\t\t\t   where cdrn_year = '||:s_year||'                                                                                                                                                                       \n\t\t\t\t\t\t\t         and cdrn_month = '||:s_month||'\n\t\t\t\t\t\t\t\tunion\n\t\t\t\t\t        select aa.cdrs_ind,\n\t\t\t\t\t               aa.cdrs_id,\n\t\t\t\t\t               'O'||substr('000000000'||aa.cdrs_nbr,-8)  cdrs_nbr\n\t\t\t\t\t          from bbsd_cust_cdrs  aa,\n\t\t\t\t\t\t\t          (select ab.cdrs_ind,\n\t\t\t\t\t\t\t                  ab.cdrs_id \n\t\t\t\t  \t               from bbsd_cust_cdrs ab\n\t\t\t\t\t\t\t           minus\n\t\t\t\t\t\t\t           select  ac.cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t                   ac.cdrn_id    cdrs_id\n\t\t\t\t\t\t\t              from bbsd_cdrs_news   ac\n\t\t\t\t\t  \t            where ac.cdrn_year = '||:s_year||'                                                                                                                                                                      \n\t\t\t\t\t\t\t\t            and ac.cdrn_month = '||:s_month||')  ad\n\t\t\t\t\t\t\t\t    where ad.cdrs_ind=aa.cdrs_ind\n\t\t\t\t\t\t\t\t\t    and ad.cdrs_id=aa.cdrs_id) d,\n\t\t\t\t\t\t\t         (select distinct\n\t\t\t\t\t\t\t                substr(v.cdra_text,6,9)  cdr_nbr,\n\t\t\t\t\t\t\t                'Yes'   sent_to_cdr   \n\t\t\t\t\t\t\t           from bbsd_cdrs_avis    v\n\t\t\t\t\t\t\t          where v.cdra_year='||:s_year||'  \n\t\t\t\t\t\t\t            and v.cdra_month='||:s_month||')  kk  ,\n\t\t\t\t\t         \t\tbbsd_customers f, \n\t\t\t\t\t        \t\tbbsc_cdr_icbs_codes g , \n\t\t\t\t\t        \t\tbbsc_currencies h,\n\t\t\t\t\t        \t\tbbsc_economic_sectors i,\n\t\t\t\t\t        \t\tbbsd_cdrs_liabilities_m j    \n\t\t\t\t\twhere c.cdlm_year = '||:s_year||'\n\t\t\t\t\t  and c.cdlm_month ='||:s_month||' \n\t\t\t\t\t  and c.cdld_ecos=i.ecos_iso(+)\n\t\t\t\t\t  and j.cdlm_month=c.cdlm_month           \n\t\t\t\t\t  and j.cdlm_year=c.cdlm_year        \n\t\t\t\t\t  and j.cdlm_cust_grp=c.cdlm_cust_grp          \n\t\t\t\t\t  and j.cdlm_id  =c.cdlm_id     \n\t\t\t\t\t  and d.CDRS_NBR=kk.cdr_nbr(+)      \n\t\t\t\t\t  and c.cdld_cdlg =b.cdlg_code \n\t\t\t\t\t  and c.cdld_clsg=b.clsg_code \n\t\t\t\t\t  and c.cdld_clbt=b.clbt_type \n\t\t\t\t\t  and c.cdld_clnt=a.clnt_code \n\t\t\t\t\t  and c.cdlm_id = d.cdrs_id \n\t\t\t\t\t  and cdrs_ind=1  \n\t\t\t\t\t  and f.cust_id=d.cdrs_id \n\t\t\t\t\t  and g.cdri_categ=8 \n\t\t\t\t\t  and g.cdri_icbs_code=h.curr_code \n\t\t\t\t\t  and c.cdld_curr=g.cdri_code\n\t\t\t\torder by 2) JJ",
+					"settings":
+					{
+						"buffer_size": 9905,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\nSELECT 1231\nFROM dual;\n\n\nSELECT nvl(jj.CDR_INDEX,jj2.CDR_INDEX) CDR_INDEX,\n       nvl(jj.CDR_NUMBER,jj2.CDR_NUMBER) CDR_NUMBER,\n       nvl(jj.CDR_ID,jj2.CDR_ID) CDR_ID,\n       nvl(jj.NAME,jj2.NAME) NAME,\n       nvl(jj.BRANCH,jj2.BRANCH) BRANCH,\n       nvl(jj.GROUP_,jj2.GROUP_) GROUP_,\n       nvl(jj.SUB_GROUP,jj2.SUB_GROUP) SUB_GROUP,\n       --   nvl(jj.CDLM_YEAR,jj2.CDLM_YEAR)  CDLM_YEAR,\n --   nvl(jj.CDLM_MONTH,jj2.CDLM_MONTH)  CDLM_MONTH,\n\n       nvl(jj.TYPE,jj2.TYPE) TYPE,\n                             nvl(jj.LOAN_TYPE,jj2.LOAN_TYPE) LOAN_TYPE,\n                             nvl(jj.CURRENCY,jj2.CURRENCY) CURRENCY,\n                             nvl(jj.CDLD_CR_LC,0)-nvl(jj2.CDLD_CR_LC) CDLD_CR_LC,\n                             nvl(jj.CDLD_UT_LC,0)-nvl(jj2.CDLD_UT_LC) CDLD_UT_LC,\n                             nvl(jj.CDLD_CR_FX,0)-nvl(jj2.CDLD_CR_FX) CDLD_CR_FX,\n                             nvl(jj.CDLD_UT_FX,0)-nvl(jj2.CDLD_UT_FX) CDLD_UT_FX,\n                             nvl(jj.ECONOMIC_SECTOR,jj2.ECONOMIC_SECTOR) ECONOMIC_SECTOR,\n                             nvl(jj.RC,jj2.RC) RC,\n                             nvl(jj.RP,jj2.RP) RP,\n                             jj.SENT_TO_CDR SENT_TO_CDR1,\n                             jj2.SENT_TO_CDR SENT_TO_CDR2\nFROM\n  (SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n          d.cdrs_nbr cdr_number,\n          d.cdrs_id cdr_id,\n          initcap(e.cgrm_b_name) name,\n          j.cdlm_brch branch,\n          c.cdld_cdlg group_,\n          c.cdld_clsg sub_group,\n          c.cdlm_year cdlm_year,\n          c.cdlm_month cdlm_month,\n          c.cdld_clbt TYPE,\n                      c.cdld_clnt loan_type,\n                      c.CDLD_CURR currency,\n                      nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                      nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                      nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                      nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                      c.cdld_ecos economic_sector,\n                      c.cdld_risk_class rc,\n                      c.cdld_remain_period rp,\n                      nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_1\n        AND cdrn_month = :s_month_1\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_1\n           AND ac.cdrn_month = :s_month_1) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id)d,\n     (SELECT DISTINCT substr(v.CDRA_TEXT,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_1\n        AND v.cdra_month=:s_month_1) kk ,\n                                     bbsd_cust_groups_m e,\n                                     bbsc_cdr_icbs_codes g,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year=:s_year_1\n     AND c.cdlm_month=:s_month_1\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp =c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND d.cdrs_ind=2\n     AND e.cgrm_code=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code\n   UNION SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n                d.cdrs_nbr cdr_number,\n                d.cdrs_id cdr_id,\n                initcap(f.cust_b_name) name,\n                j.cdlm_brch branch,\n                c.cdld_cdlg group_,\n                c.cdld_clsg sub_group,\n                c.cdlm_year cdlm_year,\n                c.cdlm_month cdlm_month,\n                c.cdld_clbt TYPE,\n                            c.cdld_clnt loan_type,\n                            c.CDLD_CURR currency,\n                            nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                            nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                            nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                            nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                            c.cdld_ecos economic_sector,\n                            c.cdld_risk_class rc,\n                            c.cdld_remain_period rp,\n                            nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_1\n        AND cdrn_month = :s_month_1\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_1\n           AND ac.cdrn_month = :s_month_1) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id) d,\n     (SELECT DISTINCT substr(v.cdra_text,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_1\n        AND v.cdra_month=:s_month_1) kk ,\n                                     bbsd_customers f,\n                                     bbsc_cdr_icbs_codes g ,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year = :s_year_1\n     AND c.cdlm_month =:s_month_1\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp=c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND cdrs_ind=1\n     AND f.cust_id=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code) JJ\nFULL OUTER JOIN\n  (SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n          d.cdrs_nbr cdr_number,\n          d.cdrs_id cdr_id,\n          initcap(e.cgrm_b_name) name,\n          j.cdlm_brch branch,\n          c.cdld_cdlg group_,\n          c.cdld_clsg sub_group,\n          c.cdlm_year cdlm_year,\n          c.cdlm_month cdlm_month,\n          c.cdld_clbt TYPE,\n                      c.cdld_clnt loan_type,\n                      c.CDLD_CURR currency,\n                      nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                      nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                      nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                      nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                      c.cdld_ecos economic_sector,\n                      c.cdld_risk_class rc,\n                      c.cdld_remain_period rp,\n                      nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_2\n        AND cdrn_month = :s_month_2\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_2\n           AND ac.cdrn_month = :s_month_2) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id)d,\n     (SELECT DISTINCT substr(v.CDRA_TEXT,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_2\n        AND v.cdra_month=:s_month_2) kk ,\n                                     bbsd_cust_groups_m e,\n                                     bbsc_cdr_icbs_codes g,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year=:s_year_2\n     AND c.cdlm_month=:s_month_2\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp =c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND d.cdrs_ind=2\n     AND e.cgrm_code=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code\n   UNION SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n                d.cdrs_nbr cdr_number,\n                d.cdrs_id cdr_id,\n                initcap(f.cust_b_name) name,\n                j.cdlm_brch branch,\n                c.cdld_cdlg group_,\n                c.cdld_clsg sub_group,\n                c.cdlm_year cdlm_year,\n                c.cdlm_month cdlm_month,\n                c.cdld_clbt TYPE,\n                            c.cdld_clnt loan_type,\n                            c.CDLD_CURR currency,\n                            nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                            nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                            nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                            nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                            c.cdld_ecos economic_sector,\n                            c.cdld_risk_class rc,\n                            c.cdld_remain_period rp,\n                            nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_2\n        AND cdrn_month = :s_month_2\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_2\n           AND ac.cdrn_month = :s_month_2) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id) d,\n     (SELECT DISTINCT substr(v.cdra_text,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_2\n        AND v.cdra_month=:s_month_2) kk ,\n                                     bbsd_customers f,\n                                     bbsc_cdr_icbs_codes g ,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year = :s_year_2\n     AND c.cdlm_month =:s_month_2\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp=c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND cdrs_ind=1\n     AND f.cust_id=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code) JJ2 ON JJ.cdr_index=JJ2.cdr_index\nAND JJ.cdr_id=JJ2.cdr_id\nAND JJ.branch=JJ2.branch\nAND JJ.group_=JJ2.group_\nAND JJ.sub_group=JJ2.sub_group\nAND JJ.TYPE=JJ2.TYPE\nAND JJ.loan_type=JJ2.loan_type\nAND JJ.currency=JJ2.currency\nAND JJ.economic_sector=JJ2.economic_sector ;\n\n\nORDER BY cdr_id,\n         cdlm_year,\n         cdlm_month",
+					"file": "/X/Documents/Elia/sql/Desktop/Abboud CDR comparison.sql",
+					"file_size": 14898,
+					"file_write_time": 131195395756721673,
+					"settings":
+					{
+						"buffer_size": 11861,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
+					"settings":
+					{
+						"buffer_size": 9882,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Declare\n\t\n\tS_Dest_Name       varchar2(50);\n\tCmd_Line          varchar2(30000);\n\ts_entete          varchar2(3000);\n\tV_excel_path      varchar2(200);\n\tl_success  \t\t\t\tboolean;\n\t    \n\tV_file_name_01        \tvarchar2(100):='c:\\icbs\\it_dev\\DEV02068.txt';\n\tV_file_name_01_no_path  varchar2(100):='DEV02068';\n\t\n\tV_E_MAIL          VARCHAR2(600) ;                  \n               \n  V_body           VARCHAR2(30000) ;\n\n\tv_source_name    varchar(40);\n\tv_source_class   NUMBER(1);\n\tv_source_eMails    varchar(200);\n\tv_dest_name      varchar(40);\n\tv_dest_class     NUMBER(1);\n\tv_dest_eMails    varchar(200);\n\tv_additional_eMails    varchar(200);\n\tv_trnsp_name     varchar(40);\n  v_curr_iso       varchar(40);\n  \n  V_case_of_mail   number(2);\nbegin\n\t\n\t:Please_Wait := '... Please wait ...';\n\tSynchronize;\n\t\n\t\n\tl_success := WEBUTIL_FILE.CREATE_DIRECTORY('c:\\Icbs');\n\tl_success := WEBUTIL_FILE.CREATE_DIRECTORY('c:\\Icbs\\IT_DEV');\n\tl_success := WEBUTIL_FILE.CREATE_DIRECTORY('c:\\Icbs\\IT_DEV\\modele');\n\tSynchronize;\n\t\n  cmd_line := 'eMail|body|Subject|'; \n  Dv_Log_file2(cmd_line ,'w',V_file_name_01_no_path) ;  \t\n\t\n\n\t\t\n\t\t\tV_E_MAIL := 'e.harmouche@creditbank.com'\n\n\t\t\tv_body := 'Dears, \nKindly note that a total of X Grand Cinemas tickets has been added to your branch?s stock on DATE. You should receive the tickets the next day by internal mail.\n\nThank you.\n'\n\n\t\t\tcmd_line := V_E_MAIL||'|'||v_body||'|Grand Cinemas Creditbank Vouchers Dispatched to your Branch';   \n\t\t\tDv_Log_file2(cmd_line ,'a',V_file_name_01_no_path) ; \n  \n  dv_sync_file(V_file_name_01,'C:\\ICBS\\It_Dev\\DEV02068.txt');\n  host ('del '||V_file_name_01,no_screen);              \n                 \n\t\t\t\n\t-- synchronize all macros and excel model files on the user pc with the server\n\tdv_sync_file('C:\\Icbs\\It_Dev\\modele\\Macro_DEV01353.xls');\n\t-- start the macro at client\n\tFBean.Register_Bean('block_rep.bean',1,'oracle.forms.dv.ReadReg');  \n\tV_excel_path := FBean.Invoke_char('block_rep.bean',1,'ReadFrom','\"xls\"');\n\t-- asynchronous\n\tFBean.Invoke('block_rep.bean',1,'ShellS','\"'||V_excel_path||' %'||'C:\\Icbs\\It_Dev\\modele\\Macro_DEV01353.xls% \"'); \n\n\t<<end_prog>>\n\t:Please_Wait := 'Finished';\n\tSynchronize;\n\t--tool_pack.exit_frm;\nexception when others then \n \talert_mess ( sqlcode || '  ' || substr(sqlerrm,1,200), 'note');\t\nend;\n\n\t",
+					"settings":
+					{
+						"buffer_size": 2282,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 648.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"Package Control;",
+					"Package Control",
+					"Package Control: Install Package"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/elia_harmouche/Desktop/web 2016-09-09.log",
+				"/C/Users/elia_harmouche/AppData/Roaming/SQL Developer/system4.1.3.20.78/o.ide.12.2.1.0.42.151001.541/dtcache.xml",
+				"/C/Users/elia_harmouche/Desktop/spmay2.txt",
+				"/C/Users/elia_harmouche/Desktop/Liste_dev01236_DC.TXT",
+				"/X/Documents/Elia/sql/Desktop/DM Customers.txt",
+				"/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
+				"/C/Users/elia_harmouche/Documents/helpdesk sql.sql",
+				"/C/Users/elia_harmouche/Documents/webBanking215-soapui-project.xml",
+				"/C/Users/elia_harmouche/Documents/startup.txt",
+				"/C/Program Files/Sublime Text 3/changelog.txt",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/X/Documents/Elia/sql/Desktop/Tania Select transactions.sql"
+			],
+			"find":
+			{
+				"height": 78.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n                  b.clbt_code group_name,\n                  b.clbt_desc group_description,",
+					"b.clbt_type",
+					"b.clsg_code",
+					"b.cdlg_code",
+					"\n                  a.clnt_short_d loan_code,\n                  a.clnt_desc loan_type_description,",
+					"a.clnt_code",
+					"nvl(i.ecos_b_desc,'n/a')",
+					" i",
+					"h.curr_code||' '||h.curr_b_desc",
+					"h.",
+					"rp",
+					"''",
+					"||''|''||",
+					"s_year",
+					"s_month",
+					"s_year"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"c.cdld_clbt",
+					"c.cdld_clsg",
+					"c.cdld_cdlg",
+					"",
+					"c.cdld_clnt",
+					"c.cdld_ecos",
+					"c.CDLD_CURR",
+					"'",
+					",",
+					"s_year_2",
+					"s_month_2",
+					"s_month_1",
+					"s_year_1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5331,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										516,
+										516
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQL/SQL.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9905,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9621,
+										9621
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Oracle PL SQL/Syntaxes/PL SQL (Oracle).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 600.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/X/Documents/Elia/sql/Desktop/Abboud CDR comparison.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11861,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2241,
+										2241
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 660.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9882,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7458,
+										7471
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2596.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2282,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1342,
+										1342
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 420.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,760,90,90,908",
+			"project": "",
+			"replace":
+			{
+				"height": 150.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
