@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/All Hallow's Eve (Elia) (SL).tmTheme",
+	"font_face": "Fira Code",
 	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -21,7 +22,6 @@
 		"OCaml",
 		"Pascal",
 		"Perl",
-		"PHP",
 		"Rails",
 		"Ruby",
 		"Rust",

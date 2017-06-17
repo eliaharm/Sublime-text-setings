@@ -1,19 +1,24 @@
 {
 	"folder_history":
 	[
+		"/X/Documents/Elia/sql/Desktop"
 	],
 	"last_version": 3126,
-	"last_window_id": 6,
+	"last_window_id": 43,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 600.0,
+		"new_window_height": 790.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"cust",
+						"cust_id"
+					]
 				]
 			},
 			"build_system_choices":
@@ -28,10 +33,14 @@
 				[
 					[
 						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 648.0
+				"width": 725.0
 			},
 			"console":
 			{
@@ -55,13 +64,138 @@
 			},
 			"file_history":
 			[
-				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-				"/X/Documents/Elia/sql/Desktop/Tania Select transactions.sql"
+				"/X/Documents/Elia/sql/Denise Fares bal II/BasleII queries elia  4_8_2010.sql",
+				"/C/Users/elia_harmouche/Desktop/ddd.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/ITHT025R_QUERY.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/AD_C20170530001.txt",
+				"/X/Documents/Elia/sql/Desktop/DV_EBANKING_TRANSFER beneficiary acc.sql",
+				"/C/javaApp/webBanking3/sql/SelectWedAccIban.sql",
+				"/C/javaApp/webBanking3/sql/SelectWedClientsInfo.sql",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_output.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_output.xml",
+				"/C/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Address.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Danielle contracts automation.txt",
+				"/C/javaApp/webBanking3/sql/SelectCust.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dv_get_Managed_by.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script (3).sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Beneficiary transfer.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Relation.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version4.sql",
+				"/C/Users/elia_harmouche/Pictures/comm Combo card/IMG_6357.txt",
+				"/C/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/C/Users/elia_harmouche/Desktop/meta.txt",
+				"/C/Users/elia_harmouche/Desktop/dd.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version5.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/21_DV00055R.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/WC_CreditBank.txt",
+				"/C/Users/elia_harmouche/Desktop/BI170509004.TXT",
+				"/C/Users/elia_harmouche/Desktop/BI170509003.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170509002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508001.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/DETAILS.txt",
+				"/C/icbs/It_Dev/Pos_smm_corp_Mix.txt",
+				"/X/Documents/Elia/sql/Desktop/Get Sent SMS.sql",
+				"/C/Downloads/16348986-LEBANON-companies-contact-details.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_readmefirst.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_Info.txt",
+				"/C/Users/elia_harmouche/repos/README.txt",
+				"/C/Users/elia_harmouche/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/cards classification update script.sql",
+				"/C/Program Files (x86)/Privoxy/config.txt",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 3.SQL",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/MinCrdb170425-Charge.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields KFS.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD KFS APR from table.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/dv_spell_number.sql",
+				"/X/Documents/Elia/sql/Desktop/soumar closed accounts.sql",
+				"/C/Users/elia_harmouche/Desktop/REDA.sql",
+				"/C/tmp/abboud pb02/insert31_03_2017.txt",
+				"/C/tmp/abboud pb02/PB02_31122016_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/chkimp.txt",
+				"/C/javaApp/webBanking3/sql/SelectBranches.sql",
+				"/X/source/VS.Net/ApplicationDocumentor/ApplicationDocumentor/app.config",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 2.sql",
+				"/X/Documents/Elia/sql/Desktop/Nidal Collector work queue.sql",
+				"/C/Users/elia_harmouche/Desktop/install.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields Contracts.sql",
+				"/C/Downloads/.ptmp30207/libwebp-0.6.0-windows-x64/Readme.txt",
+				"/X/Documents/Elia/sql/Retail Loans interface/Retail Loan Applications.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-29 statistical report update.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectAcc.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectBranches.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectCROs.sql",
+				"//192.168.0.215/javaApp/webBanking3/sql/SelectCust.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectCust.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Limit optional.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/soumar closed accounts.sql",
+				"/X/Documents/Elia/sql/Desktop/ATM Cash deposit/ATM CashDep new procedures.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/NEW_OPEN_ACCOUNT.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/must _be_dormant.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dormant.txt",
+				"/X/Documents/Elia/sql/Desktop/Nidal Akl reppartition by branche.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/NewInstall3.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script2.sql",
+				"/X/Documents/Elia/sql/Desktop/APR Function.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script3.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script4.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Statistics/2015-02-13 Creditbank Stats.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Statistics/My Stats.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Statistics/eBanking groups.sql",
+				"/C/Users/elia_harmouche/Desktop/DEV02104.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/DEV01457_USERS.txt",
+				"/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
+				"/X/Documents/Elia/sql/Desktop/Read Board New report.sql",
+				"/X/Documents/Elia/sql/Desktop/BackofficeRateEntryDev02022.sql",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/X/Documents/Elia/sql/Desktop/Hanadi _ Raymond_ ILO View.sql",
+				"/X/Documents/Nazir/SQL/Nidal Akl reppartition by branche.sql",
+				"/X/Documents/Nazir/Reatil application monitoring.txt",
+				"/X/Documents/Elia/sql/Desktop/BS_AI_ACCWTHD.txt",
+				"/X/java/NetBeans8/webBanking3/sql/SelectAcc.sql",
+				"/C/icbs/It_Dev/DEV01433_b.txt",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectBranches.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectCROs.sql",
+				"/X/Documents/Elia/sql/FICO CDA/New CDA Servers.txt",
+				"/C/CDAInterface/CDAInterface.log",
+				"/X/Documents/Elia/sql/Desktop/Credit Cards/Gaby Credit Card workflow.sql",
+				"/X/Documents/Elia/sql/Desktop/Credit Cards/Credit cards workflow installation.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOA509.tmp/alertEmailConfirmation.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOB7A0.tmp/SignUpModal.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO1479.tmp/2015_02_24_000000_create_posts_table.php",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO6276.tmp/app.blade.php",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOB783.tmp/SessionDropdown.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO8394.tmp/boot.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO6A58.tmp/components.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOD24A.tmp/Pane.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO9C8E.tmp/routes.js",
+				"/C/Users/elia_harmouche/Desktop/User.php",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO3FCD.tmp/components.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zODE1D.tmp/History.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO4BFA.tmp/KeyboardNavigatable.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO2891.tmp/ForumApp.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOC185.tmp/app.js",
+				"/C/Users/elia_harmouche/Desktop/app.js",
+				"//192.168.0.238/SharedFiles/LogFaultStoreWSCallLog.txt",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/M/report_server_name.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/POINTS01.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/SCRIPT 5 contract printing.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/LIBOR01.sql",
+				"/C/tmp/abboud pb02/old/PB02_30092016_all.txt",
+				"/C/tmp/abboud pb02/insert31_12_2016.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SCRIPT (2).sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields CBK Plus.sql",
+				"/C/icbs/It_Dev/DEV01433_flag2.txt"
 			],
 			"find":
 			{
-				"height": 78.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
@@ -75,22 +209,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"?",
+					"V_InCVAmnt",
+					"V_InAmnt",
+					"V_InAmntChr",
+					"P_InAmntChr",
+					"V_IN_AMNT_LBP",
+					"V_MAX_AMNT_LBP",
+					"cts",
+					",",
+					"Benefitiary",
+					"092",
+					"?",
+					" ",
+					"keywords",
+					"keyw",
+					"benef",
+					"ben",
+					"intro",
+					"P_Solde",
+					"V_BASED_ON",
+					"V_LOC_RATE",
+					"V_FRN_RATE",
+					"RADIO_TYPE",
+					"65399165",
+					"5124040000000782",
+					"4339812021340270",
+					";\"",
+					"\"update",
+					" ",
+					"p_date_du",
+					"p_date_au",
+					"LIBOR01",
+					"POINTS01",
+					"Total_Bills",
+					"Total_Loan_Amount",
+					"POINTS01",
+					"APRCRD01",
+					"-",
+					"DV_ATM_ACC_TRN",
+					"suz",
+					"DV_CAL_APR",
+					"csts",
+					"AGEING",
+					"AGING",
+					"AGEING",
+					"user",
+					"dv_get_collector_branch",
+					"Customer_ID",
+					"Managed_by",
+					"Aging",
+					"cnat_code",
+					"group_user",
+					" ",
+					"dv_get_collector_branch",
+					"DV_ILO_FOLLOW_UP01382_TEST.",
+					"||'|'||",
+					"''",
+					"7.5",
+					"CreditorInterestRate",
+					"mat",
+					"CreditorInterestRate ",
+					"date",
+					"Maturit",
+					"MaturityDate",
+					"''",
+					"0121012850120324001",
+					"0011002900120324006",
+					"0121002850120324005",
+					"LB55010300011002900120324006",
+					"LB20010300121002850120324005",
+					" 7",
+					"7",
+					"26",
+					"260",
+					"265",
+					"\"",
+					"APRCRD01",
+					"PHCRAPR",
+					"\\n",
+					"'",
+					"Dept",
+					"Comments",
+					"CUST_CLASSIFICATION_DATE",
+					"Classification_Client",
+					"Description",
+					"category",
+					"||'|'||",
+					"''",
+					"||'|'||",
+					"''",
+					"\"",
+					"intere",
+					"''",
+					"212552",
+					"remettre",
+					"DV_FAC_RESERVE_EOD",
+					"BHLT_NATURE = 901",
+					"DV_FAC_RESERVE_BAL",
+					"995",
+					"30/09/2016",
+					"10153",
+					", ,",
+					"vinyl",
+					"empl",
+					"staff",
+					"ImportMacroops started",
+					");",
+					"''",
+					"||''|''||",
+					"23",
+					"265",
+					"||'|'||",
+					"''",
+					"264",
+					"265",
+					"264",
+					"rc",
+					"cdld_ecos",
+					"economic_sector",
+					"currency",
+					"loan_code",
+					"group_name",
+					"25",
 					"\n                  b.clbt_code group_name,\n                  b.clbt_desc group_description,",
 					"b.clbt_type",
 					"b.clsg_code",
 					"b.cdlg_code",
-					"\n                  a.clnt_short_d loan_code,\n                  a.clnt_desc loan_type_description,",
-					"a.clnt_code",
-					"nvl(i.ecos_b_desc,'n/a')",
-					" i",
-					"h.curr_code||' '||h.curr_b_desc",
-					"h.",
-					"rp",
-					"''",
-					"||''|''||",
-					"s_year",
-					"s_month",
-					"s_year"
+					"\n                  a.clnt_short_d loan_code,\n                  a.clnt_desc loan_type_description,"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -98,6 +344,34 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					"\\n",
+					"/n",
+					"",
+					";",
+					"update",
+					"_",
+					"v_date_du",
+					"v_date_au",
+					",",
+					"_",
+					"FU.",
+					",",
+					"'",
+					"XXXXXXXX",
+					"",
+					"''",
+					",",
+					"'",
+					",",
+					"'",
+					"",
+					"'",
+					"'30/09/2016'",
+					",user,'DEV01844',sysdate);",
+					"'",
+					",",
+					"'",
 					"",
 					"c.cdld_clbt",
 					"c.cdld_clsg",
@@ -121,7 +395,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -135,7 +409,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 150.0
+				"height": 80.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -166,16 +440,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 188.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 800.0
+		"new_window_width": 718.0
 	},
 	"windows":
 	[
@@ -184,51 +458,30 @@
 			{
 				"selected_items":
 				[
+					[
+						"cust",
+						"cust_id"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"contents": "SELECT cdr_index||''|''|| cdr_number||''|''|| cdr_id||''|''|| name||''|''|| branch||''|''|| group_||''|''|| sub_group||''|''|| SUM(cdld_cr_lc)||''|''|| SUM(cdld_ut_lc)||''|''|| sent_to_cdr||''|''||\n  (SELECT nvl(s.sdec_b_desc,''N/A'')\n   FROM BBSD_CDRS_LIABILITIES_SUBID a,\n                                    bbsc_sect_domectic_ecos s\n   WHERE cdls_month='||:s_month||'\n     AND cdls_year='||:s_year||'\n     AND a.cdls_client_serial=1\n     AND s.sdec_iso=a.CDLS_CLASS_CODE\n     AND a.cdls_id=jj.cdr_id) ||''|''\nFROM\n  (SELECT ''A''||ROWNUM UNIQUEid,\n                 decode(d.cdrs_ind,''1'',''Customer'',''2'',''\n                        GROUP'') cdr_index,\n                 d.cdrs_nbr cdr_number,\n                 d.cdrs_id cdr_id,\n                 initcap(e.cgrm_b_name) name,\n                 j.cdlm_brch branch,\n                 b.cdlg_code group_,\n                 b.clsg_code sub_group,\n                 nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                 nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                 nvl(sent_to_cdr,''NO'') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = '||:s_year||'\n        AND cdrn_month = '||:s_month||'\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   ''O''||substr(''000000000''||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = '||:s_year||'\n           AND ac.cdrn_month = '||:s_month||') ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id)d,\n     (SELECT DISTINCT substr(v.CDRA_TEXT,6,9) cdr_nbr,\n                      ''Yes'' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year='||:s_year||'\n        AND v.cdra_month='||:s_month||') kk ,\n                                         bbsd_cust_groups_m e,\n                                         bbsc_cdr_icbs_codes g,\n                                         bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year='||:s_year||'\n     AND c.cdlm_month='||:s_month||'\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp =c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =b.cdlg_code\n     AND c.cdld_clsg=b.clsg_code\n     AND c.cdld_clbt=b.clbt_type\n     AND c.cdlm_id = d.cdrs_id\n     AND d.cdrs_ind=2\n     AND e.cgrm_code=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code\n   UNION SELECT ''B''||ROWNUM UNIQUEid,\n                       decode(d.cdrs_ind,''1'',''Customer'',''2'',''\n                              GROUP'') cdr_index,\n                       d.cdrs_nbr,\n                       d.cdrs_id ,\n                       initcap(f.cust_b_name) name,\n                       j.cdlm_brch branch,\n                       b.cdlg_code group_,\n                       b.clsg_code sub_group,\n                       nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                       nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                       nvl(sent_to_cdr,''NO'') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = '||:s_year||'\n        AND cdrn_month = '||:s_month||'\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   ''O''||substr(''000000000''||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = '||:s_year||'\n           AND ac.cdrn_month = '||:s_month||') ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id) d,\n     (SELECT DISTINCT substr(v.cdra_text,6,9) cdr_nbr,\n                      ''Yes'' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year='||:s_year||'\n        AND v.cdra_month='||:s_month||') kk ,\n                                         bbsd_customers f,\n                                         bbsc_cdr_icbs_codes g ,\n                                         bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year = '||:s_year||'\n     AND c.cdlm_month ='||:s_month||'\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp=c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =b.cdlg_code\n     AND c.cdld_clsg=b.clsg_code\n     AND c.cdld_clbt=b.clbt_type\n     AND c.cdlm_id = d.cdrs_id\n     AND cdrs_ind=1\n     AND f.cust_id=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code ) JJ\nWHERE JJ.group_=1\n  AND JJ.sub_Group=1\n  AND jj.sent_to_cdr=''Yes''\nGROUP BY cdr_index,\n         cdr_number,\n         cdr_id,\n         name,\n         branch,\n         group_,\n         sub_group,\n         sent_to_cdr\nORDER BY cdr_index,\n         cdr_number,\n         cdr_id,\n         group_,\n         sub_group;\n\n",
+					"contents": "\nPhotography workflow windows powershell exiftool XnConvert FreeFileSync Faststone-Image-Viewer DigiKam Lightroom Nikon-transfer Microsoft-import-photos-and-videos\n\nhttp://192.168.0.214/forms/frmservlet?form=gbsmenuf.fmx&separateframe=true&userid=icbs/safebox@safebox\n\n\nDV_DYNA_FIELDS                    \nDV_DYNA_REPORTS\nDV_DYNA_TEMPLATES\nDV_DYNA_PLACE_HOLDERS\nDV_DYNA_MACROS\nDV_DYNA_REPORT_TO_CALL\nDV_CARDTYPES_BENEFITS\n\n1742829023535001\n\n\nhttp://192.168.0.214/forms/frmservlet?form=gbsmenuf.fmx&separateframe=true&userid=icbs/safebox@safebox\n\n\nRD0000000005820170506000000                   00022772001                   CASH DEPOSIT             000000000000060800\nRD0000000005920170506000000                   00024361001                   CASH DEPOSIT             000000000000007500\nRD0000000006020170506000000                   00025502001                   PAYMENT ORDER IN YOUR FAV000000000000023700\nRD0000000006120170506000000                   00025752001                   CASH DEPOSIT             000000000000015000\n\nRD0000000000120170508000000                   00002523001                   COMMISSION ON YOUR CHECKS000000000000000100\nRD0000000000220170508000000                   00002523001                   COMMISSION ON YOUR CHECKS000000000000000100\nRD0000000000320170508000000                   00003508001                   CASH DEPOSIT             000000000000035000\nRD0000000000420170508000000                   00003508001                   CASH DEPOSIT             000000000000035000\nRD0000000000520170508000000                   00003590001                   FISCAL STAMPS            000000000000000066\nRD0000000000620170508000000                   00003590001                   FISCAL STAMPS            000000000000000066\nRD0000000000720170508000000                   00004313001                   TRANSFER IN YOUR  FAVOUR 000000000000007200\nRD0000000000820170508000000                   00004313001                   TRANSFER IN YOUR  FAVOUR 000000000000007200\nRD0000000000920170508000000                   00004314002                   CASH DEPOSIT             000000000000007600\nRD0000000001020170508000000                   00004314002                   CASH DEPOSIT             000000000000007600\nRD0000000001120170508000000                   00004807001                   CASH DEPOSIT             000000000000044000\nRD0000000001220170508000000                   00004807001                   CASH DEPOSIT             000000000000044000\nRD0000000001320170508000000                   00005316001                   FISCAL STAMPS            000000000000000066\nRD0000000001420170508000000                   00005316001                   FISCAL STAMPS            000000000000000066\nRD0000000001520170508000000                   00005316001                   EXCH. VAL/OUR PURCHASE LB000000000000017162\nRD0000000001620170508000000                   00005316001                   EXCH. VAL/OUR PURCHASE LB000000000000017162\nRD0000000001720170508000000                   00005652001                   CASH DEPOSIT             000000000000060000\nRD0000000001820170508000000                   00005652001                   CASH DEPOSIT             000000000000060000\nRD0000000001920170508000000                   00006172001                   CASH DEPOSIT             000000000000014000\nRD0000000002020170508000000                   00006172001                   CASH DEPOSIT             000000000000014000\nRD0000000002120170508000000                   00006227001                   CASH DEPOSIT             000000000000010000\nRD0000000002220170508000000                   00006227001                   CASH DEPOSIT             000000000000010000\nRD0000000002320170508000000                   00006828001                   PAYMENT ORDER IN YOUR FAV000000000000020000\nRD0000000002420170508000000                   00006828001                   PAYMENT ORDER IN YOUR FAV000000000000020000\nRD0000000002520170508000000                   00007052001                   CASH DEPOSIT             000000000000030000\nRD0000000002620170508000000                   00007052001                   CASH DEPOSIT             000000000000030000\nRD0000000002720170508000000                   00007588001                   FISCAL STAMPS            000000000000000066\nRD0000000002820170508000000                   00007588001                   FISCAL STAMPS            000000000000000066\nRD0000000002920170508000000                   00007588001                   EXCH. VAL/OUR PURCHASE LB000000000000028383\nRD0000000003020170508000000                   00007588001                   EXCH. VAL/OUR PURCHASE LB000000000000028383\nRD0000000003120170508000000                   00008393001                   CASH DEPOSIT             000000000000015000\nRD0000000003220170508000000                   00008393001                   CASH DEPOSIT             000000000000015000\nRD0000000003320170508000000                   00008690001                   TRANSFER                 000000000000025480\nRD0000000003420170508000000                   00008690001                   TRANSFER                 000000000000025480\nRD0000000003520170508000000                   00008941001                   CASH DEPOSIT             000000000000014400\nRD0000000003620170508000000                   00008941001                   CASH DEPOSIT             000000000000014400\nRD0000000003720170508000000                   00009162001                   CASH DEPOSIT             000000000000005000\nRD0000000003820170508000000                   00009162001                   CASH DEPOSIT             000000000000005000\nRD0000000003920170508000000                   00009294001                   SET. CHECK NB. 828 SENT F000000000000028600\nRD0000000004020170508000000                   00009294001                   SET. CHECK NB. 828 SENT F000000000000028600\nRD0000000004120170508000000                   00009297001                   CASH DEPOSIT             000000000000005000\nRD0000000004220170508000000                   00009297001                   CASH DEPOSIT             000000000000005000\nRD0000000004320170508000000                   00009451001                   CASH DEPOSIT             000000000000012500\nRD0000000004420170508000000                   00009451001                   CASH DEPOSIT             000000000000012500\nRD0000000004520170508000000                   00009616001                   CASH DEPOSIT             000000000000010000\nRD0000000004620170508000000                   00009616001                   CASH DEPOSIT             000000000000010000\nRD0000000004720170508000000                   00009750001                   FISCAL STAMPS            000000000000000066\nRD0000000004820170508000000                   00009750001                   FISCAL STAMPS            000000000000000066\nRD0000000004920170508000000                   00009750001                   EXCH. VAL/OUR PURCHASE LB000000000000033003\nRD0000000005020170508000000                   00009750001                   EXCH. VAL/OUR PURCHASE LB000000000000033003\nRD0000000005120170508000000                   00010068001                   PAYMENT ORDER IN YOUR FAV000000000000005500\nRD0000000005220170508000000                   00010068001                   PAYMENT ORDER IN YOUR FAV000000000000005500\nRD0000000005320170508000000                   00010292001                   CASH DEPOSIT             000000000000010000\nRD0000000005420170508000000                   00010292001                   CASH DEPOSIT             000000000000010000\nRD0000000005520170508000000                   00010301001                   CASH DEPOSIT             000000000000005000\nRD0000000005620170508000000                   00010301001                   CASH DEPOSIT             000000000000005000\nRD0000000005720170508000000                   00010570001                   TRANSFER IN YOUR  FAVOUR 000000000000025083\nRD0000000005820170508000000                   00010570001                   TRANSFER IN YOUR  FAVOUR 000000000000025083\nRD0000000005920170508000000                   00010652001                   PAYMENT ORDER IN YOUR FAV000000000000011000\nRD0000000006020170508000000                   00010652001                   PAYMENT ORDER IN YOUR FAV000000000000011000\nRD0000000006120170508000000                   00011333001                   CASH DEPOSIT             000000000000018000\nRD0000000006220170508000000                   00011333001                   CASH DEPOSIT             000000000000018000\nRD0000000006320170508000000                   00011341001                   PAYMENT ORDER IN YOUR FAV000000000000006500\nRD0000000006420170508000000                   00011341001                   PAYMENT ORDER IN YOUR FAV000000000000006500\nRD0000000006520170508000000                   00011627002                   EXCH. VAL/OUR PURCHASE LB000000000000026403\nRD0000000006620170508000000                   00011627002                   EXCH. VAL/OUR PURCHASE LB000000000000026403\nRD0000000006720170508000000                   00011694001                   FISCAL STAMPS            000000000000000066\nRD0000000006820170508000000                   00011694001                   FISCAL STAMPS            000000000000000066\nRD0000000006920170508000000                   00011724001                   FISCAL STAMPS            000000000000000066\nRD0000000007020170508000000                   00011724001                   FISCAL STAMPS            000000000000000066\nRD0000000007120170508000000                   00011724001                   EXCH. VAL/OUR PURCHASE LB000000000000030099\nRD0000000007220170508000000                   00011724001                   EXCH. VAL/OUR PURCHASE LB000000000000030099\nRD0000000007320170508000000                   00011754001                   CASH DEPOSIT             000000000000010000\nRD0000000007420170508000000                   00011754001                   CASH DEPOSIT             000000000000010000\nRD0000000007520170508000000                   00013218001                   INVOICE SETLLEMENT CHARGE000000000000000300\nRD0000000007620170508000000                   00013218001                   INVOICE SETLLEMENT CHARGE000000000000000300\nRD0000000007720170508000000                   00013218001                   SETTLEMENT OF TEL. BILL 3000000000000007259\nRD0000000007820170508000000                   00013218001                   SETTLEMENT OF TEL. BILL 3000000000000007259\nRD0000000007920170508000000                   00013757001                   TRANSFER                 000000000000005638\nRD0000000008020170508000000                   00013757001                   TRANSFER                 000000000000005638\nRD0000000008120170508000000                   00013771001                   TRANSFER IN YOUR  FAVOUR 000000000000344200\nRD0000000008220170508000000                   00013771001                   TRANSFER IN YOUR  FAVOUR 000000000000344200\nRD0000000008320170508000000                   00013977001                   TRANSFER                 000000000000009927\nRD0000000008420170508000000                   00013977001                   TRANSFER                 000000000000009927\nRD0000000008520170508000000                   00014091001                   PAYMENT ORDER IN YOUR FAV000000000000011881\nRD0000000008620170508000000                   00014091001                   PAYMENT ORDER IN YOUR FAV000000000000011881\nRD0000000008720170508000000                   00014273001                   PAYMENT ORDER IN YOUR FAV000000000000005000\nRD0000000008820170508000000                   00014273001                   PAYMENT ORDER IN YOUR FAV000000000000005000\nRD0000000008920170508000000                   00014330001                   CASH DEPOSIT             000000000000005000\nRD0000000009020170508000000                   00014330001                   CASH DEPOSIT             000000000000005000\nRD0000000009120170508000000                   00014433001                   SETTLEMENT OF TEL. BILL 3000000000000013254\nRD0000000009220170508000000                   00014433001                   SETTLEMENT OF TEL. BILL 3000000000000013254\nRD0000000009320170508000000                   00014623002                   TRANSFER                 000000000000001324\nRD0000000009420170508000000                   00014623002                   TRANSFER                 000000000000001324\nRD0000000009520170508000000                   00014637001                   CASH DEPOSIT             000000000000015083\nRD0000000009620170508000000                   00014637001                   CASH DEPOSIT             000000000000015083\nRD0000000009720170508000000                   00014664001                   CASH DEPOSIT             000000000000070000\nRD0000000009820170508000000                   00014664001                   CASH DEPOSIT             000000000000070000\nRD0000000009920170508000000                   00014705001                   TRANSFER                 000000000000040000\nRD0000000010020170508000000                   00014705001                   TRANSFER                 000000000000040000\nRD0000000010120170508000000                   00014775001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000010220170508000000                   00014775001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000010320170508000000                   00014799001                   CASH DEPOSIT             000000000000010310\nRD0000000010420170508000000                   00014799001                   CASH DEPOSIT             000000000000010310\nRD0000000010520170508000000                   00014898002                   TRANSFER IN YOUR  FAVOUR 000000000000015000\nRD0000000010620170508000000                   00014898002                   TRANSFER IN YOUR  FAVOUR 000000000000015000\nRD0000000010720170508000000                   00015458001                   CASH DEPOSIT             000000000000005000\nRD0000000010820170508000000                   00015458001                   CASH DEPOSIT             000000000000005000\nRD0000000010920170508000000                   00015461001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000011020170508000000                   00015461001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000011120170508000000                   00015650002                   TRANSFER                 000000000000080000\nRD0000000011220170508000000                   00015650002                   TRANSFER                 000000000000080000\nRD0000000011320170508000000                   00015650002                   TRANSFER                 000000000000080000\nRD0000000011420170508000000                   00015650002                   TRANSFER                 000000000000080000\nRD0000000011520170508000000                   00015650002                   TRANSFER                 000000000000080000\nRD0000000011620170508000000                   00016080001                   CASH DEPOSIT             000000000000040000\nRD0000000011720170508000000                   00016080001                   CASH DEPOSIT             000000000000040000\nRD0000000011820170508000000                   00016254002                   TRANSFER                 000000000000009927\nRD0000000011920170508000000                   00016254002                   TRANSFER                 000000000000009927\nRD0000000012020170508000000                   00016568001                   FISCAL STAMPS            000000000000000066\nRD0000000012120170508000000                   00016568001                   FISCAL STAMPS            000000000000000066\nRD0000000012220170508000000                   00016568001                   EXCH. VAL/OUR PURCHASE LB000000000000006601\nRD0000000012320170508000000                   00016568001                   EXCH. VAL/OUR PURCHASE LB000000000000006601\nRD0000000012420170508000000                   00016900001                   FISCAL STAMPS            000000000000000066\nRD0000000012520170508000000                   00016900001                   FISCAL STAMPS            000000000000000066\nRD0000000012620170508000000                   00016900001                   EXCH. VAL/OUR PURCHASE LB000000000000013201\nRD0000000012720170508000000                   00016900001                   EXCH. VAL/OUR PURCHASE LB000000000000013201\nRD0000000012820170508000000                   00016914001                   PAYMENT ORDER IN YOUR FAV000000000000005347\nRD0000000012920170508000000                   00016914001                   PAYMENT ORDER IN YOUR FAV000000000000005347\nRD0000000013020170508000000                   00017239001                   CASH DEPOSIT             000000000000070000\nRD0000000013120170508000000                   00017239001                   CASH DEPOSIT             000000000000070000\nRD0000000013220170508000000                   00017427001                   CASH DEPOSIT             000000000000009505\nRD0000000013320170508000000                   00017427001                   CASH DEPOSIT             000000000000009505\nRD0000000013420170508000000                   00017469001                   TRANSFER                 000000000000003300\nRD0000000013520170508000000                   00017469001                   TRANSFER                 000000000000003300\nRD0000000013620170508000000                   00017469001                   TRANSFER                 000000000000024752\nRD0000000013720170508000000                   00017469001                   TRANSFER                 000000000000024752\nRD0000000013820170508000000                   00017571001                   CASH DEPOSIT             000000000000020000\nRD0000000013920170508000000                   00017571001                   CASH DEPOSIT             000000000000020000\nRD0000000014020170508000000                   00017796001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000014120170508000000                   00017796001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000014220170508000000                   00017986001                   CASH DEPOSIT             000000000000015000\nRD0000000014320170508000000                   00017986001                   CASH DEPOSIT             000000000000015000\nRD0000000014420170508000000                   00018309001                   CASH DEPOSIT             000000000000020000\nRD0000000014520170508000000                   00018309001                   CASH DEPOSIT             000000000000020000\nRD0000000014620170508000000                   00018314001                   FISCAL STAMPS            000000000000000066\nRD0000000014720170508000000                   00018314001                   FISCAL STAMPS            000000000000000066\nRD0000000014820170508000000                   00018314001                   PAYMENT ORDER NO: .      000000000000062376\nRD0000000014920170508000000                   00018314001                   PAYMENT ORDER NO: .      000000000000062376\nRD0000000015020170508000000                   00018340001                   FISCAL STAMPS            000000000000000066\nRD0000000015120170508000000                   00018340001                   FISCAL STAMPS            000000000000000066\nRD0000000015220170508000000                   00018340001                   EXCH. VAL/OUR PURCHASE LB000000000000029505\nRD0000000015320170508000000                   00018340001                   EXCH. VAL/OUR PURCHASE LB000000000000029505\nRD0000000015420170508000000                   00018459001                   SET. CHECK NB. 326 SENT F000000000000010500\nRD0000000015520170508000000                   00018459001                   SET. CHECK NB. 326 SENT F000000000000010500\nRD0000000015620170508000000                   00018848001                   CASH DEPOSIT             000000000000010000\nRD0000000015720170508000000                   00018848001                   CASH DEPOSIT             000000000000010000\nRD0000000015820170508000000                   00018952001                   CASH DEPOSIT             000000000000005000\nRD0000000015920170508000000                   00018952001                   CASH DEPOSIT             000000000000005000\nRD0000000016020170508000000                   00019218001                   CASH DEPOSIT             000000000000005000\nRD0000000016120170508000000                   00019218001                   CASH DEPOSIT             000000000000005000\nRD0000000016220170508000000                   00019329001                   TRANSFER IN YOUR  FAVOUR 000000000000099900\nRD0000000016320170508000000                   00019329001                   TRANSFER IN YOUR  FAVOUR 000000000000099900\nRD0000000016420170508000000                   00019975001                   PAYMENT ORDER IN YOUR FAV000000000000022000\nRD0000000016520170508000000                   00019975001                   PAYMENT ORDER IN YOUR FAV000000000000022000\nRD0000000016620170508000000                   00020560001                   FISCAL STAMPS            000000000000000059\nRD0000000016720170508000000                   00020560001                   FISCAL STAMPS            000000000000000059\nRD0000000016820170508000000                   00020560001                   EXCH. VAL/OUR PURCHASE US000000000000018100\nRD0000000016920170508000000                   00020560001                   EXCH. VAL/OUR PURCHASE US000000000000018100\nRD0000000017020170508000000                   00020581002                   FISCAL STAMPS            000000000000000066\nRD0000000017120170508000000                   00020581002                   FISCAL STAMPS            000000000000000066\nRD0000000017220170508000000                   00020581002                   EXCH. VAL/OUR PURCHASE LB000000000000400000\nRD0000000017320170508000000                   00020581002                   EXCH. VAL/OUR PURCHASE LB000000000000400000\nRD0000000017420170508000000                   00020815001                   FISCAL STAMPS            000000000000000066\nRD0000000017520170508000000                   00020815001                   FISCAL STAMPS            000000000000000066\nRD0000000017620170508000000                   00020815001                   EXCH. VAL/OUR PURCHASE LB000000000000011502\nRD0000000017720170508000000                   00020815001                   EXCH. VAL/OUR PURCHASE LB000000000000011502\nRD0000000017820170508000000                   00020828001                   PAYMENT ORDER IN YOUR FAV000000000000015182\nRD0000000017920170508000000                   00020828001                   PAYMENT ORDER IN YOUR FAV000000000000015182\nRD0000000018020170508000000                   00021060001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000018120170508000000                   00021060001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000018220170508000000                   00021060001                   PAYMENT ORDER IN YOUR FAV000000000000010000\nRD0000000018320170508000000                   00021659002                   CASH DEPOSIT             000000000000150000\nRD0000000018420170508000000                   00021659002                   CASH DEPOSIT             000000000000150000\nRD0000000018520170508000000                   00021758001                   TRANSFER IN YOUR  FAVOUR 000000000000005078\nRD0000000018620170508000000                   00021758001                   TRANSFER IN YOUR  FAVOUR 000000000000005078\nRD0000000018720170508000000                   00021937001                   FISCAL STAMPS            000000000000000066\nRD0000000018820170508000000                   00021937001                   FISCAL STAMPS            000000000000000066\nRD0000000018920170508000000                   00021937001                   EXCH. VAL/OUR PURCHASE LB000000000000010561\nRD0000000019020170508000000                   00021937001                   EXCH. VAL/OUR PURCHASE LB000000000000010561\nRD0000000019120170508000000                   00022542001                   CASH DEPOSIT             000000000000018000\nRD0000000019220170508000000                   00022542001                   CASH DEPOSIT             000000000000018000\nRD0000000019320170508000000                   00022664002                   SET. CHECK NB. 358405 SEN000000000000521000\nRD0000000019420170508000000                   00022664002                   SET. CHECK NB. 358405 SEN000000000000521000\nRD0000000019520170508000000                   00022900002                   CASH DEPOSIT             000000000000020000\nRD0000000019620170508000000                   00022900002                   CASH DEPOSIT             000000000000020000\nRD0000000019720170508000000                   00024281001                   TRANSFER IN YOUR  FAVOUR 000000000000020000\nRD0000000019820170508000000                   00024281001                   TRANSFER IN YOUR  FAVOUR 000000000000020000\nRD0000000019920170508000000                   00024693001                   CASH DEPOSIT             000000000000005000\nRD0000000020020170508000000                   00024693001                   CASH DEPOSIT             000000000000005000\nRD0000000020120170508000000                   00024791001                   EXCH. VAL/OUR PURCHASE LB000000000000006601\nRD0000000020220170508000000                   00024791001                   EXCH. VAL/OUR PURCHASE LB000000000000006601\nRD0000000020320170508000000                   00024911002                   REFUND OF CARD ISSUING FE000000000000046800\nRD0000000020420170508000000                   00024911002                   REFUND OF CARD ISSUING FE000000000000046800\nRD0000000020520170508000000                   00024940001                   FISCAL STAMPS            000000000000000066\nRD0000000020620170508000000                   00024940001                   FISCAL STAMPS            000000000000000066\nRD0000000020720170508000000                   00024940001                   EXCH. VAL/OUR PURCHASE LB000000000000009901\nRD0000000020820170508000000                   00024940001                   EXCH. VAL/OUR PURCHASE LB000000000000009901\nRD0000000020920170508000000                   00025096001                   FISCAL STAMPS            000000000000000066\nRD0000000021020170508000000                   00025096001                   FISCAL STAMPS            000000000000000066\nRD0000000021120170508000000                   00025096001                   EXCH. VAL/OUR PURCHASE LB000000000000015182\nRD0000000021220170508000000                   00025096001                   EXCH. VAL/OUR PURCHASE LB000000000000015182\nRD0000000021320170508000000                   00025240001                   PAYMENT ORDER IN YOUR FAV000000000000020000\nRD0000000021420170508000000                   00025240001                   PAYMENT ORDER IN YOUR FAV000000000000020000\nRD0000000021520170508000000                   00025284001                   TRANSFER                 000000000000014804\nRD0000000021620170508000000                   00025284001                   TRANSFER                 000000000000014804\nRD0000000021720170508000000                   00025327001                   CASH DEPOSIT             000000000000010000\nRD0000000021820170508000000                   00025327001                   CASH DEPOSIT             000000000000010000\nRD0000000021920170508000000                   00025383001                   CASH DEPOSIT             000000000000007000\nRD0000000022020170508000000                   00025383001                   CASH DEPOSIT             000000000000007000\nRD0000000022120170508000000                   00025666001                   CASH DEPOSIT             000000000000020000\nRD0000000022220170508000000                   00025666001                   CASH DEPOSIT             000000000000020000\nRD0000000022320170508000000                   00025940001                   TRANSFER                 000000000000010000\nRD0000000022420170508000000                   00025940001                   TRANSFER                 000000000000010000\nRD0000000022520170508000000                   00026042001                   TRANSFER                 000000000000002700\nRD0000000022620170508000000                   00026042001                   TRANSFER                 000000000000002700\nRD0000000022720170508000000                   00026395001                   FISCAL STAMPS            000000000000000066\nRD0000000022820170508000000                   00026395001                   FISCAL STAMPS            000000000000000066\nRD0000000022920170508000000                   00026395001                   EXCH. VAL/OUR PURCHASE LB000000000000009901\nRD0000000023020170508000000                   00026395001                   EXCH. VAL/OUR PURCHASE LB000000000000009901\nRD0000000023120170508000000                   00026431001                   TRANSFER                 000000000000013236\nRD0000000023220170508000000                   00026431001                   TRANSFER                 000000000000013236\nRD0000000023320170508000000                   00026450001                   SET. CHECK NB. 470719 SEN000000000000145000\nRD0000000023420170508000000                   00026450001                   SET. CHECK NB. 470719 SEN000000000000145000\nRD0000000023520170508000000                   00027540001                   TRANSFER                 000000000000010000\nRD0000000023620170508000000                   00027540001                   TRANSFER                 000000000000010000\nRD0000000023720170508000000                   00027592001                   CASH DEPOSIT             000000000000021000\nRD0000000023820170508000000                   00027592001                   CASH DEPOSIT             000000000000021000\n",
+					"file": "/C/Users/elia_harmouche/Desktop/sdfs",
+					"file_size": 388,
+					"file_write_time": 131393181659154718,
 					"settings":
 					{
-						"buffer_size": 5331,
+						"buffer_size": 29587,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "\tselect \tcdr_index,\n\t\t\t\t\t\tcdr_number,\n\t\t\t\t\t\tcdr_id,\n\t\t\t\t\t\tname,\n\t\t\t\t\t\tbranch,\n\t\t\t\t  \tgroup_,\n\t\t\t\t  \tsub_group,\n\t\t\t\t  \ttype,\n\t\t\t\t  \tgroup_name,\n\t\t\t\t  \tgroup_description,\n\t\t\t\t  \tloan_type,\n\t\t\t\t  \tloan_code,\n\t\t\t\t  \tloan_type_description,\n\t\t\t\t  \tcurrency,\n\t\t\t\t  \tcdld_cr_lc,\n\t\t\t\t  \tcdld_ut_lc,\n\t\t\t\t  \tcdld_cr_fx,\n\t\t\t\t  \tcdld_ut_fx,\n\t\t\t\t  \teconomic_sector,\n\t\t\t\t  \trc,\n\t\t\t\t  \trp,\n\t\t\t\t  \tsent_to_cdr,\n\t\t  --\t(select  nvl(s.sdec_b_desc,'N/A')\n\t\t\t--\t\t\tfrom bbsd_customers c,\n\t\t\t--\t\t       bbsc_sect_domectic_ecos s\n     \t--  \t\twhere s.sdec_code=c.sdec_code\n      --\t\t\t\tand c.cust_id=jj.cdr_id)||'|'\n          (select nvl(s.sdec_b_desc,'N/A')\n            from BBSD_CDRS_LIABILITIES_SUBID a,\n                 bbsc_sect_domectic_ecos s\n            where cdls_month='||:s_month||'\n            \tand cdls_year='||:s_year||'  \n              and a.cdls_client_serial=1\n              and s.sdec_iso=a.CDLS_CLASS_CODE\n              and a.cdls_id=jj.cdr_id) ,\n           Credit_Portfolio ,\n           risk_country||'|'\n\t\tfrom(select  'A'||ROWNUM   UNIQUEid,\n\t\t\t\t\t        decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n\t\t\t\t\t        d.cdrs_nbr cdr_number,\n\t\t\t\t\t        d.cdrs_id cdr_id,\n\t\t\t\t\t        initcap(e.cgrm_b_name)  name,\n\t\t\t\t\t        j.cdlm_brch branch,\n\t\t\t\t\t        b.cdlg_code group_,\n\t\t\t\t\t        b.clsg_code sub_group,\n\t\t\t\t\t        b.clbt_type type,\n\t\t\t\t\t        b.clbt_code group_name,\n\t\t\t\t\t        b.clbt_desc group_description,\n\t\t\t\t\t        a.clnt_code loan_type,\n\t\t\t\t\t        a.clnt_short_d loan_code,\n\t\t\t\t\t        a.clnt_desc loan_type_description,\n\t\t\t\t\t        h.curr_code||' '||h.curr_b_desc  currency,\n\t\t\t\t\t        nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n\t\t\t\t\t        nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n\t\t\t\t\t        nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n\t\t\t\t\t        nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n\t\t\t\t\t        nvl(i.ecos_b_desc,'n/a') economic_sector,\n\t\t\t\t\t        c.cdld_risk_class      rc,\n\t\t\t\t\t        c.cdld_remain_period   rp,\n\t\t\t\t\t        nvl(sent_to_cdr,'No')  sent_to_cdr,\n                  decode(j.CDLM_CDCP_CODE,1,'Retail',2,'SME',3,'Corporate')       Credit_Portfolio,\n                  (SELECT distinct IX.CTRY_B_DESC || '|'||\n                          substr(LX.LCTY_B_DESC,1,instr(LX.LCTY_B_DESC,'-')-2)  ddd\n                     FROM (SELECT DISTINCT CDRI_CODE, \n                                     CDRI_ICBS_CODE  CTRY_CODE,\n                                     CDRI_ICBS_CODE_1  LCTY_CODE\n                             FROM BBSC_CDR_ICBS_CODES\n                               WHERE CDRI_CATEG = 12)       CX,\n                       BBSC_LOCALITIES LX,\n                       BBSC_COUNTRIES IX\n                          WHERE TO_CHAR(C.CDLD_UTIL_CTRY) = CX.CDRI_CODE\n                      AND CX.LCTY_CODE = LX.LCTY_CODE(+)\n                      AND CX.CTRY_CODE = IX.CTRY_CODE\n                      AND C.CDLM_YEAR = '||:s_year||'  \n                      AND C.CDLM_MONTH = '||:s_month||')   risk_country                   \t\t\t\t\t        \n\t\t\t\t\t   from bbsd_cdrs_liabilities_d   c,\n\t\t\t\t\t        bbsc_cdrs_loantypes       a,\n\t\t\t\t\t        bbsc_cdrs_libtypes        b,\n\t\t\t\t\t        (select   cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t         cdrn_id    cdrs_id,\n\t\t\t\t\t\t\t\t\t\t         cdrn_new   cdrs_nbr\n\t\t\t\t\t\t\t\t\t\t    from bbsd_cdrs_news\n\t\t\t\t\t\t\t\t\t\t   where cdrn_year = '||:s_year||'                                                                                                                                                                       \n\t\t\t\t\t\t\t\t\t\t         and cdrn_month = '||:s_month||'\n\t\t\t\t\t\t\t\t\tunion\t\n\t\t\t\t\t\t\t\t\t select aa.cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t      aa.cdrs_id,\n\t\t\t\t\t\t\t\t\t\t      'O'||substr('000000000'||aa.cdrs_nbr,-8)  cdrs_nbr\n\t\t\t\t\t\t\t       from bbsd_cust_cdrs  aa,\n\t\t\t\t\t\t\t\t\t\t      (select ab.cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t              ab.cdrs_id \n\t\t\t\t\t\t\t\t\t\t         from bbsd_cust_cdrs ab\n\t\t\t\t\t\t\t\t\t\t        minus\n\t\t\t\t\t\t\t\t\t\t      select  ac.cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t\t\t\t              ac.cdrn_id    cdrs_id\n\t\t\t\t\t\t\t\t\t\t         from bbsd_cdrs_news   ac\n\t\t\t\t\t\t\t\t\t\t        where ac.cdrn_year = '||:s_year||'                                                                                                                                                                      \n\t\t\t\t\t\t\t\t\t\t          and ac.cdrn_month = '||:s_month||')  ad\n\t\t\t\t\t\t\t\t\t\t where ad.cdrs_ind=aa.cdrs_ind\n\t\t\t\t\t\t\t\t\t\t   and ad.cdrs_id=aa.cdrs_id)d,\n\t\t\t\t\t        (select distinct\n\t\t\t\t\t                substr(v.cdra_text,6,9)  cdr_nbr,\n\t\t\t\t\t                'Yes'   sent_to_cdr\n\t\t\t\t\t           from bbsd_cdrs_avis    v\n\t\t\t\t\t          where v.cdra_year='||:s_year||'\n\t\t\t\t\t            and v.cdra_month='||:s_month||')  kk  ,\n\t\t\t\t\t        bbsd_cust_groups_m        e,\n\t\t\t\t\t        bbsc_cdr_icbs_codes       g,\n\t\t\t\t\t        bbsc_currencies           h,\n\t\t\t\t\t        bbsc_economic_sectors     i,\n\t\t\t\t\t        bbsd_cdrs_liabilities_m   j\n\t\t\t\t\t  where c.cdlm_year='||:s_year||'\n\t\t\t\t\t    and c.cdlm_month='||:s_month||'\n\t\t\t\t\t    and c.cdld_ecos=i.ecos_iso(+)\n\t\t\t\t\t    and j.cdlm_month=c.cdlm_month\n\t\t\t\t\t    and j.cdlm_year=c.cdlm_year\n\t\t\t\t\t    and j.cdlm_cust_grp =c.cdlm_cust_grp\n\t\t\t\t\t    and j.cdlm_id =c.cdlm_id\n\t\t\t\t\t    and d.cdrs_nbr=kk.cdr_nbr(+)\n\t\t\t\t\t    and c.cdld_cdlg =b.cdlg_code\n\t\t\t\t\t    and c.cdld_clsg=b.clsg_code\n\t\t\t\t\t    and c.cdld_clbt=b.clbt_type\n\t\t\t\t\t    and c.cdld_clnt=a.clnt_code\n\t\t\t\t\t    and c.cdlm_id = d.cdrs_id\n\t\t\t\t\t    and d.cdrs_ind=2\n\t\t\t\t\t    and e.cgrm_code=d.cdrs_id\n\t\t\t\t\t    and g.cdri_categ=8\n\t\t\t\t\t    and g.cdri_icbs_code=h.curr_code\n\t\t\t\t\t    and c.cdld_curr=g.cdri_code\n\t\t\tunion\n\t\t\t\tselect  'B'||ROWNUM   UNIQUEid,\n\t\t\t\t        decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n\t\t\t\t        d.cdrs_nbr,\n\t\t\t\t        d.cdrs_id ,\n\t\t\t\t        initcap(f.cust_b_name)  name,\n\t\t\t\t        j.cdlm_brch branch,\n\t\t\t\t        b.cdlg_code group_,\n\t\t\t\t        b.clsg_code sub_group,\n\t\t\t\t        b.clbt_type type,\n\t\t\t\t        b.clbt_code group_name,\n\t\t\t\t        b.clbt_desc group_description,\n\t\t\t\t        a.clnt_code loan_type,\n\t\t\t\t        a.clnt_short_d loan_code,\n\t\t\t\t        a.clnt_desc loan_type_description,\n\t\t\t\t        h.curr_code||' '||h.curr_b_desc  currency,\n\t\t\t\t        nvl(c.cdld_cr_lc,0)  cdld_cr_lc,\n\t\t\t\t        nvl(c.cdld_ut_lc,0)  cdld_ut_lc,\n\t\t\t\t        nvl(c.cdld_cr_fx,0)  cdld_cr_fx,\n\t\t\t\t        nvl(c.cdld_ut_fx,0)  cdld_ut_fx,\n\t\t\t\t        i.ecos_b_desc economic_sector,\n\t\t\t\t        c.cdld_risk_class rc,\n\t\t\t\t        c.cdld_remain_period rp,\n\t\t\t\t        nvl(sent_to_cdr,'No')  sent_to_cdr,\n                decode(j.CDLM_CDCP_CODE,1,'Retail',2,'SME',3,'Corporate')       Credit_Portfolio,\n                  (SELECT distinct IX.CTRY_B_DESC || '|'||\n                          substr(LX.LCTY_B_DESC,1,instr(LX.LCTY_B_DESC,'-')-2)  ddd\n                     FROM (SELECT DISTINCT CDRI_CODE, \n                                     CDRI_ICBS_CODE  CTRY_CODE,\n                                     CDRI_ICBS_CODE_1  LCTY_CODE\n                             FROM BBSC_CDR_ICBS_CODES\n                               WHERE CDRI_CATEG = 12)       CX,\n                       BBSC_LOCALITIES LX,\n                       BBSC_COUNTRIES IX\n                          WHERE TO_CHAR(C.CDLD_UTIL_CTRY) = CX.CDRI_CODE\n                      AND CX.LCTY_CODE = LX.LCTY_CODE(+)\n                      AND CX.CTRY_CODE = IX.CTRY_CODE\n                      AND C.CDLM_YEAR = '||:s_year||'  \n                      AND C.CDLM_MONTH = '||:s_month||')   risk_country                 \t\t\t\t        \n\t\t\t\t   from bbsd_cdrs_liabilities_d c,\n\t\t\t\t        bbsc_cdrs_loantypes  a,\n\t\t\t\t        bbsc_cdrs_libtypes       b,\n\t\t\t\t        (select    cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t\t\t         cdrn_id    cdrs_id,\n\t\t\t\t\t\t\t\t\t         cdrn_new   cdrs_nbr\n\t\t\t\t\t\t\t\t\t    from bbsd_cdrs_news\n\t\t\t\t\t\t\t\t\t   where cdrn_year = '||:s_year||'                                                                                                                                                                       \n\t\t\t\t\t\t\t         and cdrn_month = '||:s_month||'\n\t\t\t\t\t\t\t\tunion\n\t\t\t\t\t        select aa.cdrs_ind,\n\t\t\t\t\t               aa.cdrs_id,\n\t\t\t\t\t               'O'||substr('000000000'||aa.cdrs_nbr,-8)  cdrs_nbr\n\t\t\t\t\t          from bbsd_cust_cdrs  aa,\n\t\t\t\t\t\t\t          (select ab.cdrs_ind,\n\t\t\t\t\t\t\t                  ab.cdrs_id \n\t\t\t\t  \t               from bbsd_cust_cdrs ab\n\t\t\t\t\t\t\t           minus\n\t\t\t\t\t\t\t           select  ac.cdrn_ind   cdrs_ind,\n\t\t\t\t\t\t\t                   ac.cdrn_id    cdrs_id\n\t\t\t\t\t\t\t              from bbsd_cdrs_news   ac\n\t\t\t\t\t  \t            where ac.cdrn_year = '||:s_year||'                                                                                                                                                                      \n\t\t\t\t\t\t\t\t            and ac.cdrn_month = '||:s_month||')  ad\n\t\t\t\t\t\t\t\t    where ad.cdrs_ind=aa.cdrs_ind\n\t\t\t\t\t\t\t\t\t    and ad.cdrs_id=aa.cdrs_id) d,\n\t\t\t\t\t\t\t         (select distinct\n\t\t\t\t\t\t\t                substr(v.cdra_text,6,9)  cdr_nbr,\n\t\t\t\t\t\t\t                'Yes'   sent_to_cdr   \n\t\t\t\t\t\t\t           from bbsd_cdrs_avis    v\n\t\t\t\t\t\t\t          where v.cdra_year='||:s_year||'  \n\t\t\t\t\t\t\t            and v.cdra_month='||:s_month||')  kk  ,\n\t\t\t\t\t         \t\tbbsd_customers f, \n\t\t\t\t\t        \t\tbbsc_cdr_icbs_codes g , \n\t\t\t\t\t        \t\tbbsc_currencies h,\n\t\t\t\t\t        \t\tbbsc_economic_sectors i,\n\t\t\t\t\t        \t\tbbsd_cdrs_liabilities_m j    \n\t\t\t\t\twhere c.cdlm_year = '||:s_year||'\n\t\t\t\t\t  and c.cdlm_month ='||:s_month||' \n\t\t\t\t\t  and c.cdld_ecos=i.ecos_iso(+)\n\t\t\t\t\t  and j.cdlm_month=c.cdlm_month           \n\t\t\t\t\t  and j.cdlm_year=c.cdlm_year        \n\t\t\t\t\t  and j.cdlm_cust_grp=c.cdlm_cust_grp          \n\t\t\t\t\t  and j.cdlm_id  =c.cdlm_id     \n\t\t\t\t\t  and d.CDRS_NBR=kk.cdr_nbr(+)      \n\t\t\t\t\t  and c.cdld_cdlg =b.cdlg_code \n\t\t\t\t\t  and c.cdld_clsg=b.clsg_code \n\t\t\t\t\t  and c.cdld_clbt=b.clbt_type \n\t\t\t\t\t  and c.cdld_clnt=a.clnt_code \n\t\t\t\t\t  and c.cdlm_id = d.cdrs_id \n\t\t\t\t\t  and cdrs_ind=1  \n\t\t\t\t\t  and f.cust_id=d.cdrs_id \n\t\t\t\t\t  and g.cdri_categ=8 \n\t\t\t\t\t  and g.cdri_icbs_code=h.curr_code \n\t\t\t\t\t  and c.cdld_curr=g.cdri_code\n\t\t\t\torder by 2) JJ",
+					"contents": "\n\n\n\n\n    ()  select regexp_substr('10001,10001.3,10001.4,10001.5,10003.2,10007.11,10007.12,10007.13,10007.8,10007.9,10009.1,10009.2,10012.4,10012.5,10012.6,10016.1,10016.2,10016.3,10016.4,10017.1,10022.4,10025.3,10025.4,10025.5,10026.11,10026.3,10026.4,10026.5,10026.6,10026.7,10026.8,10026.9,10028.1,10028.3,10031.1,10040,10048.2,10050.1,10050.2,10052.1,10054,10055,10055.1,10057,10057.1,10058.1,10059,10059.1,10059.2,10061.1,10062.2,10066,10071.1,10074,10074.1,10074.2,10075.2,10075.3,10077.1,10078,10078.2,10083,10084,10085,10085.1,10086,10086.1,10087,10089,10091,10096,10097,10097.1,10098,10098.1,10102,10104,10105,10106,10106.1,10107,10108,10109,10109.1,10110,10112,10114,10114.1,10116,10120,10121,10122,10123,10124,10125,10126,10126.1,10126.2,10127,10128,10129,10130,10130.1,10131,10132,10133,10134,10135,10136,10137,10138,10140,10140.1,10141,10142,10144,10145,10146,10147,10148,10148.1,10149,10150,10151,10152,144,144.1,148,162,162.1,166,166.1,167,168,168.1,170,170.1,172,174,180,182,185,188,189,189.1,190,192,193,195,196,197,199,201,202,204,205,206,210,212,213,214,215,215.1,216,217,218,219,220,222,223,226,226.1,227,228,229,313001,313002,313003,313004,313005,313006,313007,313008,313009,313010,313011,313012,313013,313014,313015,313016,313017,313019,54.2,54.3,69.1'\n            ,'[^,]+', 1, level) sequ,\n          regexp_substr('80546055.00,736000000.00,168551.00,1987692010.00,169448.00,411920139.00,319437191.00,561272371.00,219019.00,370999203.00,165000000.00,49200.00,105748.00,386254.00,223160.00,97425000.00,94380000.00,80602.00,206043.00,61500.00,34984.00,104999400.00,620350100.00,110186405.00,225000.00,106600.00,22550.00,238680.00,130718.00,114852.00,126750.00,210000000.00,1931272.00,2223000.00,20000.00,71400.00,295415685.00,666663513.00,333213.00,325125000.00,663159.00,50999997.00,72000000.00,1453645.00,607224.00,192205.00,170999.00,585000000.00,682500000.00,447883462.00,21250002.00,88636368.00,382500000.00,204100.00,334050.00,1417500.00,2062499528.00,674927567.00,229500.00,25499095.00,500389355.00,9562300.00,20000.00,145384.00,1817780.00,330950.00,62520.00,143895.00,544300000.00,154471153.00,127499925.00,300000000.00,42500.00,561000.00,95259.00,750000000.00,375000000.00,416499.00,770002.00,2850123889.00,204000.00,119999646.00,1016125.00,388888.00,271012.00,185932.00,2577948461.00,1657493600.00,881473688.00,2250000000.00,80525470.00,1050000.00,196000.00,1423200.00,1534000780.00,1232500000.00,1251999978.00,994997000.00,358013714.00,2100000100.00,265440.00,143896.00,1796590.00,1433750.00,719999816.00,1425000000.00,169573589.00,146500000.00,872100000.00,570000000.00,4500000100.00,510000000.00,577499976.00,42499288.00,449500.00,722570785.00,404999500.00,175750000.00,900000000.00,1643388893.00,504792734.00,633000000.00,1155000000.00,1182694519.00,996269.00,47619052.00,47619052.00,65914178.00,12499079.00,12498979.00,104153236.00,11572403.00,72554024.00,42307682.00,21153841.00,33333312.00,33333312.00,58333014.00,62499781.00,24969688.00,30058900.00,135416460.00,99999984.00,24999656.00,64297859.00,112499985.00,93333007.00,61537420.00,145833121.00,56499816.00,6666648.00,46664983.00,255556092.00,157178372.00,4761908.00,300000000.00,151082920.00,228946130.00,49993.00,283900541.00,96666462.00,185578771.00,185715888.00,479827607.00,245429750.00,212499796.00,27400808.00,259555352.00,571944594.00,210833336.00,155000000.00,50000000.00,300000000.00,101161292.00,65000000.00,458999900.00,290061948.00,1323353271.00,387564001.00,910000000.00,196365000.00,1000000000.00,297214.00,4500000000.00,326346540.00,345000000.00,2101089792.00,1115000000.00,724037556.00,4638409337.00,879515631.00,256013335.00,150000000.00,4411560.00,57000000.00,40000000.00,'\n          ,'[^,]+', 1, level) amnt\n    from dual\n       connect by level <198\n\n\ntamsil\n\nCROId\n{8549f5cc-d964-45cc-8593-08bf3c9d323f}\n{3fed53eb-3d12-4619-939b-13beefdbe820}\n{465a78b9-a876-45ec-800d-141ff0d6b60f}\n{79d20da1-ac30-42bf-9895-1bef48a5d118}\n{a80357ac-a951-4f85-8935-2155dc5a4665}\n{e7365a57-210a-4dcc-834f-216cf359f832}\n{5d74b6c5-cb88-498f-8f0a-370186cc97c5}\n{069c8266-8e04-45d1-a3e5-3b8b2fadd878}\n{15a4e65e-0352-4511-a7c8-3d6ab2391719}\n{af462dcc-fdf6-435e-9a20-43bca64b5665}\n{ec256cd4-467e-4bf8-82e5-46a8fe313def}\n{b16dee34-483a-4265-8e72-4e37181979c4}\n{7cf7b2bc-3d3c-4bd7-ab4d-55e63c2604bf}\n{bccae82a-f9b1-4c41-a692-57cb494e9a7f}\n{5463c018-8b1e-4cb6-aaca-627f23d851a0}\n{d20bd37b-46d1-4342-a8a5-63682fbbdf7c}\n{176e9436-9a34-45ee-a4ef-7401f937d609}\n{43460db3-b5fa-413b-9ab9-740249209566}\n{3831105d-6224-4ddf-a7b3-92bc51e6c0c4}\n{b7465b69-5d25-4314-a902-9d424ea75a33}\n{68043adf-c9be-401a-88dc-9d6a420c99ec}\n{5bd0dad7-febc-4d0e-b92a-9e203cd1a9c2}\n{43b9258a-67a1-41d7-9246-b208797618a5}\n{74925113-30e0-4c41-a0a0-ebf900c9d7da}\n{c3fcba4f-8c45-40e9-ade4-f1c407a038e6}\n\n\n\n",
 					"settings":
 					{
-						"buffer_size": 9905,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "\nSELECT 1231\nFROM dual;\n\n\nSELECT nvl(jj.CDR_INDEX,jj2.CDR_INDEX) CDR_INDEX,\n       nvl(jj.CDR_NUMBER,jj2.CDR_NUMBER) CDR_NUMBER,\n       nvl(jj.CDR_ID,jj2.CDR_ID) CDR_ID,\n       nvl(jj.NAME,jj2.NAME) NAME,\n       nvl(jj.BRANCH,jj2.BRANCH) BRANCH,\n       nvl(jj.GROUP_,jj2.GROUP_) GROUP_,\n       nvl(jj.SUB_GROUP,jj2.SUB_GROUP) SUB_GROUP,\n       --   nvl(jj.CDLM_YEAR,jj2.CDLM_YEAR)  CDLM_YEAR,\n --   nvl(jj.CDLM_MONTH,jj2.CDLM_MONTH)  CDLM_MONTH,\n\n       nvl(jj.TYPE,jj2.TYPE) TYPE,\n                             nvl(jj.LOAN_TYPE,jj2.LOAN_TYPE) LOAN_TYPE,\n                             nvl(jj.CURRENCY,jj2.CURRENCY) CURRENCY,\n                             nvl(jj.CDLD_CR_LC,0)-nvl(jj2.CDLD_CR_LC) CDLD_CR_LC,\n                             nvl(jj.CDLD_UT_LC,0)-nvl(jj2.CDLD_UT_LC) CDLD_UT_LC,\n                             nvl(jj.CDLD_CR_FX,0)-nvl(jj2.CDLD_CR_FX) CDLD_CR_FX,\n                             nvl(jj.CDLD_UT_FX,0)-nvl(jj2.CDLD_UT_FX) CDLD_UT_FX,\n                             nvl(jj.ECONOMIC_SECTOR,jj2.ECONOMIC_SECTOR) ECONOMIC_SECTOR,\n                             nvl(jj.RC,jj2.RC) RC,\n                             nvl(jj.RP,jj2.RP) RP,\n                             jj.SENT_TO_CDR SENT_TO_CDR1,\n                             jj2.SENT_TO_CDR SENT_TO_CDR2\nFROM\n  (SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n          d.cdrs_nbr cdr_number,\n          d.cdrs_id cdr_id,\n          initcap(e.cgrm_b_name) name,\n          j.cdlm_brch branch,\n          c.cdld_cdlg group_,\n          c.cdld_clsg sub_group,\n          c.cdlm_year cdlm_year,\n          c.cdlm_month cdlm_month,\n          c.cdld_clbt TYPE,\n                      c.cdld_clnt loan_type,\n                      c.CDLD_CURR currency,\n                      nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                      nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                      nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                      nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                      c.cdld_ecos economic_sector,\n                      c.cdld_risk_class rc,\n                      c.cdld_remain_period rp,\n                      nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_1\n        AND cdrn_month = :s_month_1\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_1\n           AND ac.cdrn_month = :s_month_1) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id)d,\n     (SELECT DISTINCT substr(v.CDRA_TEXT,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_1\n        AND v.cdra_month=:s_month_1) kk ,\n                                     bbsd_cust_groups_m e,\n                                     bbsc_cdr_icbs_codes g,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year=:s_year_1\n     AND c.cdlm_month=:s_month_1\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp =c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND d.cdrs_ind=2\n     AND e.cgrm_code=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code\n   UNION SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n                d.cdrs_nbr cdr_number,\n                d.cdrs_id cdr_id,\n                initcap(f.cust_b_name) name,\n                j.cdlm_brch branch,\n                c.cdld_cdlg group_,\n                c.cdld_clsg sub_group,\n                c.cdlm_year cdlm_year,\n                c.cdlm_month cdlm_month,\n                c.cdld_clbt TYPE,\n                            c.cdld_clnt loan_type,\n                            c.CDLD_CURR currency,\n                            nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                            nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                            nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                            nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                            c.cdld_ecos economic_sector,\n                            c.cdld_risk_class rc,\n                            c.cdld_remain_period rp,\n                            nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_1\n        AND cdrn_month = :s_month_1\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_1\n           AND ac.cdrn_month = :s_month_1) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id) d,\n     (SELECT DISTINCT substr(v.cdra_text,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_1\n        AND v.cdra_month=:s_month_1) kk ,\n                                     bbsd_customers f,\n                                     bbsc_cdr_icbs_codes g ,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year = :s_year_1\n     AND c.cdlm_month =:s_month_1\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp=c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND cdrs_ind=1\n     AND f.cust_id=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code) JJ\nFULL OUTER JOIN\n  (SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n          d.cdrs_nbr cdr_number,\n          d.cdrs_id cdr_id,\n          initcap(e.cgrm_b_name) name,\n          j.cdlm_brch branch,\n          c.cdld_cdlg group_,\n          c.cdld_clsg sub_group,\n          c.cdlm_year cdlm_year,\n          c.cdlm_month cdlm_month,\n          c.cdld_clbt TYPE,\n                      c.cdld_clnt loan_type,\n                      c.CDLD_CURR currency,\n                      nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                      nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                      nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                      nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                      c.cdld_ecos economic_sector,\n                      c.cdld_risk_class rc,\n                      c.cdld_remain_period rp,\n                      nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_2\n        AND cdrn_month = :s_month_2\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_2\n           AND ac.cdrn_month = :s_month_2) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id)d,\n     (SELECT DISTINCT substr(v.CDRA_TEXT,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_2\n        AND v.cdra_month=:s_month_2) kk ,\n                                     bbsd_cust_groups_m e,\n                                     bbsc_cdr_icbs_codes g,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year=:s_year_2\n     AND c.cdlm_month=:s_month_2\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp =c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND d.cdrs_ind=2\n     AND e.cgrm_code=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code\n   UNION SELECT decode(d.cdrs_ind,'1','Customer','2','Group') cdr_index,\n                d.cdrs_nbr cdr_number,\n                d.cdrs_id cdr_id,\n                initcap(f.cust_b_name) name,\n                j.cdlm_brch branch,\n                c.cdld_cdlg group_,\n                c.cdld_clsg sub_group,\n                c.cdlm_year cdlm_year,\n                c.cdlm_month cdlm_month,\n                c.cdld_clbt TYPE,\n                            c.cdld_clnt loan_type,\n                            c.CDLD_CURR currency,\n                            nvl(c.cdld_cr_lc,0) cdld_cr_lc,\n                            nvl(c.cdld_ut_lc,0) cdld_ut_lc,\n                            nvl(c.cdld_cr_fx,0) cdld_cr_fx,\n                            nvl(c.cdld_ut_fx,0) cdld_ut_fx,\n                            c.cdld_ecos economic_sector,\n                            c.cdld_risk_class rc,\n                            c.cdld_remain_period rp,\n                            nvl(sent_to_cdr,'No') sent_to_cdr\n   FROM bbsd_cdrs_liabilities_d c, bbsc_cdrs_libtypes b,\n     (SELECT cdrn_ind cdrs_ind,\n             cdrn_id cdrs_id,\n             cdrn_new cdrs_nbr\n      FROM bbsd_cdrs_news\n      WHERE cdrn_year = :s_year_2\n        AND cdrn_month = :s_month_2\n      UNION SELECT aa.cdrs_ind,\n                   aa.cdrs_id,\n                   'O'||substr('000000000'||aa.cdrs_nbr,-8) cdrs_nbr\n      FROM bbsd_cust_cdrs aa,\n        (SELECT ab.cdrs_ind,\n                ab.cdrs_id\n         FROM bbsd_cust_cdrs ab minus SELECT ac.cdrn_ind cdrs_ind,\n                                             ac.cdrn_id cdrs_id\n         FROM bbsd_cdrs_news ac\n         WHERE ac.cdrn_year = :s_year_2\n           AND ac.cdrn_month = :s_month_2) ad\n      WHERE ad.cdrs_ind=aa.cdrs_ind\n        AND ad.cdrs_id=aa.cdrs_id) d,\n     (SELECT DISTINCT substr(v.cdra_text,6,9) cdr_nbr,\n                      'Yes' sent_to_cdr\n      FROM bbsd_cdrs_avis v\n      WHERE v.cdra_year=:s_year_2\n        AND v.cdra_month=:s_month_2) kk ,\n                                     bbsd_customers f,\n                                     bbsc_cdr_icbs_codes g ,\n                                     bbsd_cdrs_liabilities_m j\n   WHERE c.cdlm_year = :s_year_2\n     AND c.cdlm_month =:s_month_2\n     AND j.cdlm_month=c.cdlm_month\n     AND j.cdlm_year=c.cdlm_year\n     AND j.cdlm_cust_grp=c.cdlm_cust_grp\n     AND j.cdlm_id =c.cdlm_id\n     AND d.CDRS_NBR=kk.cdr_nbr(+)\n     AND c.cdld_cdlg =c.cdld_cdlg\n     AND c.cdld_clsg=c.cdld_clsg\n     AND c.cdld_clbt=c.cdld_clbt\n     AND c.cdlm_id = d.cdrs_id\n     AND cdrs_ind=1\n     AND f.cust_id=d.cdrs_id\n     AND g.cdri_categ=8\n     AND c.cdld_curr=g.cdri_code) JJ2 ON JJ.cdr_index=JJ2.cdr_index\nAND JJ.cdr_id=JJ2.cdr_id\nAND JJ.branch=JJ2.branch\nAND JJ.group_=JJ2.group_\nAND JJ.sub_group=JJ2.sub_group\nAND JJ.TYPE=JJ2.TYPE\nAND JJ.loan_type=JJ2.loan_type\nAND JJ.currency=JJ2.currency\nAND JJ.economic_sector=JJ2.economic_sector ;\n\n\nORDER BY cdr_id,\n         cdlm_year,\n         cdlm_month",
-					"file": "/X/Documents/Elia/sql/Desktop/Abboud CDR comparison.sql",
-					"file_size": 14898,
-					"file_write_time": 131195395756721673,
-					"settings":
-					{
-						"buffer_size": 11861,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
-					"settings":
-					{
-						"buffer_size": 9882,
-						"encoding": "Western (Windows 1252)",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Declare\n\t\n\tS_Dest_Name       varchar2(50);\n\tCmd_Line          varchar2(30000);\n\ts_entete          varchar2(3000);\n\tV_excel_path      varchar2(200);\n\tl_success  \t\t\t\tboolean;\n\t    \n\tV_file_name_01        \tvarchar2(100):='c:\\icbs\\it_dev\\DEV02068.txt';\n\tV_file_name_01_no_path  varchar2(100):='DEV02068';\n\t\n\tV_E_MAIL          VARCHAR2(600) ;                  \n               \n  V_body           VARCHAR2(30000) ;\n\n\tv_source_name    varchar(40);\n\tv_source_class   NUMBER(1);\n\tv_source_eMails    varchar(200);\n\tv_dest_name      varchar(40);\n\tv_dest_class     NUMBER(1);\n\tv_dest_eMails    varchar(200);\n\tv_additional_eMails    varchar(200);\n\tv_trnsp_name     varchar(40);\n  v_curr_iso       varchar(40);\n  \n  V_case_of_mail   number(2);\nbegin\n\t\n\t:Please_Wait := '... Please wait ...';\n\tSynchronize;\n\t\n\t\n\tl_success := WEBUTIL_FILE.CREATE_DIRECTORY('c:\\Icbs');\n\tl_success := WEBUTIL_FILE.CREATE_DIRECTORY('c:\\Icbs\\IT_DEV');\n\tl_success := WEBUTIL_FILE.CREATE_DIRECTORY('c:\\Icbs\\IT_DEV\\modele');\n\tSynchronize;\n\t\n  cmd_line := 'eMail|body|Subject|'; \n  Dv_Log_file2(cmd_line ,'w',V_file_name_01_no_path) ;  \t\n\t\n\n\t\t\n\t\t\tV_E_MAIL := 'e.harmouche@creditbank.com'\n\n\t\t\tv_body := 'Dears, \nKindly note that a total of X Grand Cinemas tickets has been added to your branch?s stock on DATE. You should receive the tickets the next day by internal mail.\n\nThank you.\n'\n\n\t\t\tcmd_line := V_E_MAIL||'|'||v_body||'|Grand Cinemas Creditbank Vouchers Dispatched to your Branch';   \n\t\t\tDv_Log_file2(cmd_line ,'a',V_file_name_01_no_path) ; \n  \n  dv_sync_file(V_file_name_01,'C:\\ICBS\\It_Dev\\DEV02068.txt');\n  host ('del '||V_file_name_01,no_screen);              \n                 \n\t\t\t\n\t-- synchronize all macros and excel model files on the user pc with the server\n\tdv_sync_file('C:\\Icbs\\It_Dev\\modele\\Macro_DEV01353.xls');\n\t-- start the macro at client\n\tFBean.Register_Bean('block_rep.bean',1,'oracle.forms.dv.ReadReg');  \n\tV_excel_path := FBean.Invoke_char('block_rep.bean',1,'ReadFrom','\"xls\"');\n\t-- asynchronous\n\tFBean.Invoke('block_rep.bean',1,'ShellS','\"'||V_excel_path||' %'||'C:\\Icbs\\It_Dev\\modele\\Macro_DEV01353.xls% \"'); \n\n\t<<end_prog>>\n\t:Please_Wait := 'Finished';\n\tSynchronize;\n\t--tool_pack.exit_frm;\nexception when others then \n \talert_mess ( sqlcode || '  ' || substr(sqlerrm,1,200), 'note');\t\nend;\n\n\t",
-					"settings":
-					{
-						"buffer_size": 2282,
+						"buffer_size": 4756,
 						"line_ending": "Windows"
 					}
 				}
@@ -246,10 +499,14 @@
 				[
 					[
 						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 648.0
+				"width": 725.0
 			},
 			"console":
 			{
@@ -273,23 +530,138 @@
 			},
 			"file_history":
 			[
-				"/C/Users/elia_harmouche/Desktop/web 2016-09-09.log",
-				"/C/Users/elia_harmouche/AppData/Roaming/SQL Developer/system4.1.3.20.78/o.ide.12.2.1.0.42.151001.541/dtcache.xml",
-				"/C/Users/elia_harmouche/Desktop/spmay2.txt",
-				"/C/Users/elia_harmouche/Desktop/Liste_dev01236_DC.TXT",
-				"/X/Documents/Elia/sql/Desktop/DM Customers.txt",
+				"/X/Documents/Elia/sql/Desktop/Nidal Collector work queue.sql",
+				"/X/Documents/Elia/sql/Desktop/IMPORTANT select to initalise PB02.sql",
+				"/X/Documents/Elia/sql/Desktop/Hind Domisiliation draw 2012.sql",
+				"/C/Windows/WindowsUpdate.log",
+				"/C/tmp/abboud pb02/PB02_31032017_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/Desktop/BS_AI_CASHDEP.sql",
+				"/X/Documents/Elia/sql/Desktop/ATM Cash deposit/ATM CashDep new procedures.sql",
+				"/C/Users/elia_harmouche/Desktop/ddd.txt",
+				"/X/Documents/Elia/sql/Denise Fares bal II/BasleII queries elia  4_8_2010.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/ITHT025R_QUERY.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/AD_C20170530001.txt",
+				"/X/Documents/Elia/sql/Desktop/DV_EBANKING_TRANSFER beneficiary acc.sql",
+				"/C/javaApp/webBanking3/sql/SelectWedAccIban.sql",
+				"/C/javaApp/webBanking3/sql/SelectWedClientsInfo.sql",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_output.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_output.xml",
+				"/C/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Address.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Danielle contracts automation.txt",
+				"/C/javaApp/webBanking3/sql/SelectCust.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dv_get_Managed_by.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script (3).sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Beneficiary transfer.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Relation.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version4.sql",
+				"/C/Users/elia_harmouche/Pictures/comm Combo card/IMG_6357.txt",
+				"/C/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/C/Users/elia_harmouche/Desktop/meta.txt",
+				"/C/Users/elia_harmouche/Desktop/dd.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version5.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/21_DV00055R.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/WC_CreditBank.txt",
+				"/C/Users/elia_harmouche/Desktop/BI170509004.TXT",
+				"/C/Users/elia_harmouche/Desktop/BI170509003.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170509002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508001.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/DETAILS.txt",
+				"/C/icbs/It_Dev/Pos_smm_corp_Mix.txt",
+				"/X/Documents/Elia/sql/Desktop/Get Sent SMS.sql",
+				"/C/Downloads/16348986-LEBANON-companies-contact-details.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_readmefirst.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_Info.txt",
+				"/C/Users/elia_harmouche/repos/README.txt",
+				"/C/Users/elia_harmouche/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/cards classification update script.sql",
+				"/C/Program Files (x86)/Privoxy/config.txt",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 3.SQL",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/MinCrdb170425-Charge.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields KFS.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD KFS APR from table.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/dv_spell_number.sql",
+				"/X/Documents/Elia/sql/Desktop/soumar closed accounts.sql",
+				"/C/Users/elia_harmouche/Desktop/REDA.sql",
+				"/C/tmp/abboud pb02/insert31_03_2017.txt",
+				"/C/tmp/abboud pb02/PB02_31122016_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/chkimp.txt",
+				"/C/javaApp/webBanking3/sql/SelectBranches.sql",
+				"/X/source/VS.Net/ApplicationDocumentor/ApplicationDocumentor/app.config",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 2.sql",
+				"/C/Users/elia_harmouche/Desktop/install.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields Contracts.sql",
+				"/C/Downloads/.ptmp30207/libwebp-0.6.0-windows-x64/Readme.txt",
+				"/X/Documents/Elia/sql/Retail Loans interface/Retail Loan Applications.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-29 statistical report update.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectAcc.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectBranches.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectCROs.sql",
+				"//192.168.0.215/javaApp/webBanking3/sql/SelectCust.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectCust.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Limit optional.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/soumar closed accounts.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/NEW_OPEN_ACCOUNT.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/must _be_dormant.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dormant.txt",
+				"/X/Documents/Elia/sql/Desktop/Nidal Akl reppartition by branche.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/NewInstall3.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script2.sql",
+				"/X/Documents/Elia/sql/Desktop/APR Function.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script3.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script4.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Statistics/2015-02-13 Creditbank Stats.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Statistics/My Stats.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Statistics/eBanking groups.sql",
+				"/C/Users/elia_harmouche/Desktop/DEV02104.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/DEV01457_USERS.txt",
 				"/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
-				"/C/Users/elia_harmouche/Documents/helpdesk sql.sql",
-				"/C/Users/elia_harmouche/Documents/webBanking215-soapui-project.xml",
-				"/C/Users/elia_harmouche/Documents/startup.txt",
-				"/C/Program Files/Sublime Text 3/changelog.txt",
-				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-				"/X/Documents/Elia/sql/Desktop/Tania Select transactions.sql"
+				"/X/Documents/Elia/sql/Desktop/Read Board New report.sql",
+				"/X/Documents/Elia/sql/Desktop/BackofficeRateEntryDev02022.sql",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/X/Documents/Elia/sql/Desktop/Hanadi _ Raymond_ ILO View.sql",
+				"/X/Documents/Nazir/SQL/Nidal Akl reppartition by branche.sql",
+				"/X/Documents/Nazir/Reatil application monitoring.txt",
+				"/X/Documents/Elia/sql/Desktop/BS_AI_ACCWTHD.txt",
+				"/X/java/NetBeans8/webBanking3/sql/SelectAcc.sql",
+				"/C/icbs/It_Dev/DEV01433_b.txt",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectBranches.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectCROs.sql",
+				"/X/Documents/Elia/sql/FICO CDA/New CDA Servers.txt",
+				"/C/CDAInterface/CDAInterface.log",
+				"/X/Documents/Elia/sql/Desktop/Credit Cards/Gaby Credit Card workflow.sql",
+				"/X/Documents/Elia/sql/Desktop/Credit Cards/Credit cards workflow installation.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOA509.tmp/alertEmailConfirmation.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOB7A0.tmp/SignUpModal.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO1479.tmp/2015_02_24_000000_create_posts_table.php",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO6276.tmp/app.blade.php",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOB783.tmp/SessionDropdown.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO8394.tmp/boot.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO6A58.tmp/components.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOD24A.tmp/Pane.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO9C8E.tmp/routes.js",
+				"/C/Users/elia_harmouche/Desktop/User.php",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO3FCD.tmp/components.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zODE1D.tmp/History.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO4BFA.tmp/KeyboardNavigatable.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zO2891.tmp/ForumApp.js",
+				"/C/Users/elia_harmouche/AppData/Local/Temp/7zOC185.tmp/app.js",
+				"/C/Users/elia_harmouche/Desktop/app.js",
+				"//192.168.0.238/SharedFiles/LogFaultStoreWSCallLog.txt",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/M/report_server_name.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/POINTS01.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/SCRIPT 5 contract printing.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/LIBOR01.sql"
 			],
 			"find":
 			{
-				"height": 78.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
@@ -303,29 +675,175 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\n                  b.clbt_code group_name,\n                  b.clbt_desc group_description,",
-					"b.clbt_type",
-					"b.clsg_code",
-					"b.cdlg_code",
-					"\n                  a.clnt_short_d loan_code,\n                  a.clnt_desc loan_type_description,",
-					"a.clnt_code",
-					"nvl(i.ecos_b_desc,'n/a')",
-					" i",
-					"h.curr_code||' '||h.curr_b_desc",
-					"h.",
-					"rp",
+					"\\n",
+					" ",
+					",",
+					"\\n",
+					" ",
+					"Aging",
+					"AGEING",
+					"\"\"",
+					">\"",
+					"\" ",
+					"\"",
+					"?",
+					"V_InCVAmnt",
+					"V_InAmnt",
+					"V_InAmntChr",
+					"P_InAmntChr",
+					"V_IN_AMNT_LBP",
+					"V_MAX_AMNT_LBP",
+					"cts",
+					",",
+					"Benefitiary",
+					"092",
+					"?",
+					" ",
+					"keywords",
+					"keyw",
+					"benef",
+					"ben",
+					"intro",
+					"P_Solde",
+					"V_BASED_ON",
+					"V_LOC_RATE",
+					"V_FRN_RATE",
+					"RADIO_TYPE",
+					"65399165",
+					"5124040000000782",
+					"4339812021340270",
+					";\"",
+					"\"update",
+					" ",
+					"p_date_du",
+					"p_date_au",
+					"LIBOR01",
+					"POINTS01",
+					"Total_Bills",
+					"Total_Loan_Amount",
+					"POINTS01",
+					"APRCRD01",
+					"-",
+					"DV_ATM_ACC_TRN",
+					"suz",
+					"DV_CAL_APR",
+					"csts",
+					"AGEING",
+					"AGING",
+					"AGEING",
+					"user",
+					"dv_get_collector_branch",
+					"Customer_ID",
+					"Managed_by",
+					"Aging",
+					"cnat_code",
+					"group_user",
+					" ",
+					"dv_get_collector_branch",
+					"DV_ILO_FOLLOW_UP01382_TEST.",
+					"||'|'||",
+					"''",
+					"7.5",
+					"CreditorInterestRate",
+					"mat",
+					"CreditorInterestRate ",
+					"date",
+					"Maturit",
+					"MaturityDate",
+					"''",
+					"0121012850120324001",
+					"0011002900120324006",
+					"0121002850120324005",
+					"LB55010300011002900120324006",
+					"LB20010300121002850120324005",
+					" 7",
+					"7",
+					"26",
+					"260",
+					"265",
+					"\"",
+					"APRCRD01",
+					"PHCRAPR",
+					"\\n",
+					"'",
+					"Dept",
+					"Comments",
+					"CUST_CLASSIFICATION_DATE",
+					"Classification_Client",
+					"Description",
+					"category",
+					"||'|'||",
+					"''",
+					"||'|'||",
+					"''",
+					"\"",
+					"intere",
+					"''",
+					"212552",
+					"remettre",
+					"DV_FAC_RESERVE_EOD",
+					"BHLT_NATURE = 901",
+					"DV_FAC_RESERVE_BAL",
+					"995",
+					"30/09/2016",
+					"10153",
+					", ,",
+					"vinyl",
+					"empl",
+					"staff",
+					"ImportMacroops started",
+					");",
 					"''",
 					"||''|''||",
-					"s_year",
-					"s_month",
-					"s_year"
+					"23",
+					"265",
+					"||'|'||",
+					"''",
+					"264",
+					"265",
+					"264",
+					"rc"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					",",
+					"",
+					"\"",
+					">",
+					" ",
+					"\"\"",
+					"",
+					"\\n",
+					"/n",
+					"",
+					";",
+					"update",
+					"_",
+					"v_date_du",
+					"v_date_au",
+					",",
+					"_",
+					"FU.",
+					",",
+					"'",
+					"XXXXXXXX",
+					"",
+					"''",
+					",",
+					"'",
+					",",
+					"'",
+					"",
+					"'",
+					"'30/09/2016'",
+					",user,'DEV01844',sysdate);",
+					"'",
+					",",
+					"'",
 					"",
 					"c.cdld_clbt",
 					"c.cdld_clsg",
@@ -350,34 +868,36 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "/C/Users/elia_harmouche/Desktop/sdfs",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5331,
+								"buffer_size": 29587,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										516,
-										516
+										320,
+										320
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/SQL/SQL.tmLanguage"
+									"auto_name": "",
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
 								},
-								"translation.x": 0.0,
+								"translation.x": 146.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -385,113 +905,24 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 9905,
+								"buffer_size": 4756,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										9621,
-										9621
+										3933,
+										3933
 									]
 								],
 								"settings":
 								{
 									"auto_name": "",
-									"syntax": "Packages/Oracle PL SQL/Syntaxes/PL SQL (Oracle).tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 600.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/X/Documents/Elia/sql/Desktop/Abboud CDR comparison.sql",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11861,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2241,
-										2241
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/SQL/SQL.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 660.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/X/Documents/Elia/sql/Desktop/Gaby cinema transaction.sql",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 9882,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7458,
-										7471
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2596.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2282,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1342,
-										1342
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 420.0,
+								"translation.y": 146.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -502,7 +933,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -536,11 +967,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,760,90,90,908",
+			"position": "0,2,3,-32000,-32000,-1,-1,867,528,7,1264",
 			"project": "",
 			"replace":
 			{
-				"height": 150.0
+				"height": 80.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -575,7 +1006,7 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
 			"side_bar_width": 188.0,
