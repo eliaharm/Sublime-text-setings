@@ -1,0 +1,15 @@
+language: python
+python:
+  - "2.7"
+  - "3.3"
+
+install:
+  - pip install flake8
+  - . $HOME/.nvm/nvm.sh
+  - nvm install stable
+  - nvm use stable
+  - npm install -g eclint
+
+script:
+  - flake8 .
+  - eclint check .
