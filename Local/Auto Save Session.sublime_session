@@ -1,0 +1,1368 @@
+{
+	"folder_history":
+	[
+		"/X/Documents/Elia/sql/Desktop"
+	],
+	"last_version": 3126,
+	"last_window_id": 48,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 790.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cust",
+						"cust_id"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 355.0,
+				"last_filter": "git",
+				"selected_items":
+				[
+					[
+						"git",
+						"Git: Quick Commit (current file)"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 725.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"git_quick_commit",
+					"git commit",
+					"commit",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"Package Control;",
+					"Package Control",
+					"Package Control: Install Package"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields KFS.sql",
+				"/X/Documents/Elia/sql/Desktop/Factoring/Factoring table.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/script 1.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/script.sql",
+				"/X/Documents/Elia/sql/Desktop/Myriam CDR Financial Instruments.sql",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/sublime-text-git/README.markdown",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/sublimetext-markdown-preview/sample.md",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/X/Documents/Elia/sql/Desktop/Soumar rate margin.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-07-26.log",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170729001.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170729002.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170731001.TXT",
+				"/C/Users/elia_harmouche/Desktop/ddd.txt",
+				"/C/Users/elia_harmouche/Desktop/ss.txt",
+				"/C/Program Files (x86)/Privoxy/config.txt",
+				"/X/Documents/Elia/sql/Desktop/IMPORTANT select to initalise PB02.sql",
+				"/C/Users/elia_harmouche/Desktop/CBNetCommerceReport/Database/1-Make sure that all the database is created.sql",
+				"/C/Users/elia_harmouche/Desktop/CBNetCommerceReport/Database/2-2017-07-13 Payment Report.sql",
+				"/C/Users/elia_harmouche/Desktop/CBNetCommerceReport/Read me.txt",
+				"/X/Documents/Elia/sql/Desktop/Reda Class CDR Pivot.sql",
+				"/X/Documents/Elia/sql/Desktop/Transfers online 24 7/Gaby request.sql",
+				"/X/Documents/Elia/sql/Desktop/Nidal Collector work queue.sql",
+				"/X/java/NetBeans8/webBanking3/sql/SelectBeneficiaryName.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD KFS APR from table.sql",
+				"/X/Documents/Elia/sql/Desktop/Reda Board report addition.sql",
+				"/C/tmp/abboud pb02/old/insert30_06_2017.txt",
+				"/C/Users/elia_harmouche/Desktop/log/2017-07-14.log",
+				"/C/Users/elia_harmouche/Desktop/log/WebPreApplicationInit.txt",
+				"/C/Users/elia_harmouche/Desktop/log/ServicePreApplicationInit.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/insert31_03_2017.txt",
+				"/C/tmp/abboud pb02/insert31_03_2017.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 5.SQL",
+				"/C/tmp/abboud pb02/PB02_30062017_a3_LBP.xlsx.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/insert30_06_2017.txt",
+				"/C/tmp/abboud pb02/old/insert31_03_2017.txt",
+				"/X/Documents/Elia/sql/Desktop/DV_EBANKING_TRANSFER beneficiary acc.sql",
+				"/C/Users/elia_harmouche/Desktop/sdfs",
+				"/C/icbs/It_Dev/Dev01436.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-07-06 Report Proceedure.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-02-23.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-10.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-20 .sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-28.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-29 .sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/CARD Contract printing 4 (3).sql",
+				"/X/java/NetBeans8/webBanking3/sql/SelectCust.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectCROs.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectAcc.sql",
+				"//192.168.12.22/c$/Users/Elia_harmouche/Desktop/Glass fish ADMIN.txt",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectBranches.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectWedAccIban.sql",
+				"/C/Users/elia_harmouche/Desktop/2017-06-29.log",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectBranches.sql",
+				"/X/Documents/Elia/sql/Desktop/Hind Domisiliation draw 2012.sql",
+				"/C/Windows/WindowsUpdate.log",
+				"/C/tmp/abboud pb02/PB02_31032017_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/Desktop/BS_AI_CASHDEP.sql",
+				"/X/Documents/Elia/sql/Desktop/ATM Cash deposit/ATM CashDep new procedures.sql",
+				"/X/Documents/Elia/sql/Denise Fares bal II/BasleII queries elia  4_8_2010.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/ITHT025R_QUERY.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/AD_C20170530001.txt",
+				"/C/javaApp/webBanking3/sql/SelectWedAccIban.sql",
+				"/C/javaApp/webBanking3/sql/SelectWedClientsInfo.sql",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_output.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_output.xml",
+				"/C/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Address.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Danielle contracts automation.txt",
+				"/C/javaApp/webBanking3/sql/SelectCust.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dv_get_Managed_by.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script (3).sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Beneficiary transfer.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Relation.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version4.sql",
+				"/C/Users/elia_harmouche/Pictures/comm Combo card/IMG_6357.txt",
+				"/C/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/C/Users/elia_harmouche/Desktop/meta.txt",
+				"/C/Users/elia_harmouche/Desktop/dd.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version5.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/21_DV00055R.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/WC_CreditBank.txt",
+				"/C/Users/elia_harmouche/Desktop/BI170509004.TXT",
+				"/C/Users/elia_harmouche/Desktop/BI170509003.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170509002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508001.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/DETAILS.txt",
+				"/C/icbs/It_Dev/Pos_smm_corp_Mix.txt",
+				"/X/Documents/Elia/sql/Desktop/Get Sent SMS.sql",
+				"/C/Downloads/16348986-LEBANON-companies-contact-details.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_readmefirst.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_Info.txt",
+				"/C/Users/elia_harmouche/repos/README.txt",
+				"/C/Users/elia_harmouche/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/cards classification update script.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 3.SQL",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/MinCrdb170425-Charge.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/dv_spell_number.sql",
+				"/X/Documents/Elia/sql/Desktop/soumar closed accounts.sql",
+				"/C/Users/elia_harmouche/Desktop/REDA.sql",
+				"/C/tmp/abboud pb02/PB02_31122016_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/chkimp.txt",
+				"/C/javaApp/webBanking3/sql/SelectBranches.sql",
+				"/X/source/VS.Net/ApplicationDocumentor/ApplicationDocumentor/app.config",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 2.sql",
+				"/C/Users/elia_harmouche/Desktop/install.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields Contracts.sql",
+				"/C/Downloads/.ptmp30207/libwebp-0.6.0-windows-x64/Readme.txt",
+				"/X/Documents/Elia/sql/Retail Loans interface/Retail Loan Applications.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-29 statistical report update.sql",
+				"//192.168.0.215/javaApp/webBanking3/sql/SelectCust.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectCust.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Limit optional.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/soumar closed accounts.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/NEW_OPEN_ACCOUNT.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/must _be_dormant.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dormant.txt",
+				"/X/Documents/Elia/sql/Desktop/Nidal Akl reppartition by branche.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/NewInstall3.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Insert script2.sql"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"V_VAL_DATE_DR",
+					"V_TodayDate",
+					"V_Inside_working_hours_flg",
+					"1507",
+					"V_LocAmnt",
+					"V_FrmAccAmnt",
+					"P_InFrmAmntChr",
+					"V_FrmAmnt",
+					"P_InProcCode",
+					"DV_ONLINE_TRANS_RESER",
+					"V_FrmAccCurr",
+					"V_FrmCurr",
+					"in_BHLT_TIME_STAMP",
+					"192.168",
+					"er_",
+					"OT_ER_GEN",
+					"H_",
+					"P_InTrsDateTime",
+					"P_InProcCode",
+					" ",
+					",",
+					"~",
+					"'",
+					"||",
+					"P_InTrsDateTime",
+					"V_Inside_working_hours_flg",
+					"BHLT_MSG_TYPE",
+					"BHLT_NATURE",
+					"V_LocAmnt",
+					"V_LocCurr",
+					"P_InProcCode",
+					"IN_Sign",
+					"BHLT_NATURE",
+					"V_AvailOthBr",
+					"P_OutBankRef",
+					"V_BhltSeq",
+					"v_rate",
+					"'",
+					"p_gen",
+					"''",
+					"''\n",
+					"{5b6a730f-e6ba-4b52-b849-5d727f61e2ed}\n",
+					"26",
+					"P_RespCode := 3;",
+					"151",
+					"P_INTRSDATETIME",
+					"P_INPROCCODE",
+					"CODE ",
+					"\\n",
+					" ",
+					",",
+					"\\n",
+					" ",
+					"Aging",
+					"AGEING",
+					"\"\"",
+					">\"",
+					"\" ",
+					"\"",
+					"?",
+					"V_InCVAmnt",
+					"V_InAmnt",
+					"V_InAmntChr",
+					"P_InAmntChr",
+					"V_IN_AMNT_LBP",
+					"V_MAX_AMNT_LBP",
+					"cts",
+					",",
+					"Benefitiary",
+					"092",
+					"?",
+					" ",
+					"keywords",
+					"keyw",
+					"benef",
+					"ben",
+					"intro",
+					"P_Solde",
+					"V_BASED_ON",
+					"V_LOC_RATE",
+					"V_FRN_RATE",
+					"RADIO_TYPE",
+					"65399165",
+					"5124040000000782",
+					"4339812021340270",
+					";\"",
+					"\"update",
+					" ",
+					"p_date_du",
+					"p_date_au",
+					"LIBOR01",
+					"POINTS01",
+					"Total_Bills",
+					"Total_Loan_Amount",
+					"POINTS01",
+					"APRCRD01",
+					"-",
+					"DV_ATM_ACC_TRN",
+					"suz",
+					"DV_CAL_APR",
+					"csts",
+					"AGEING",
+					"AGING",
+					"AGEING",
+					"user",
+					"dv_get_collector_branch",
+					"Customer_ID",
+					"Managed_by",
+					"Aging",
+					"cnat_code",
+					"group_user",
+					" ",
+					"dv_get_collector_branch",
+					"DV_ILO_FOLLOW_UP01382_TEST.",
+					"||'|'||",
+					"''",
+					"7.5",
+					"CreditorInterestRate",
+					"mat",
+					"CreditorInterestRate ",
+					"date",
+					"Maturit",
+					"MaturityDate",
+					"''",
+					"0121012850120324001",
+					"0011002900120324006",
+					"0121002850120324005",
+					"LB55010300011002900120324006"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					":H_",
+					"",
+					"V_Sign",
+					"''",
+					"'",
+					",",
+					"",
+					"\"",
+					">",
+					" ",
+					"\"\"",
+					"",
+					"\\n",
+					"/n",
+					"",
+					";",
+					"update",
+					"_",
+					"v_date_du",
+					"v_date_au",
+					",",
+					"_",
+					"FU.",
+					",",
+					"'",
+					"XXXXXXXX",
+					"",
+					"''",
+					",",
+					"'",
+					",",
+					"'",
+					"",
+					"'",
+					"'30/09/2016'",
+					",user,'DEV01844',sysdate);",
+					"'",
+					",",
+					"'",
+					"",
+					"c.cdld_clbt",
+					"c.cdld_clsg",
+					"c.cdld_cdlg",
+					"",
+					"c.cdld_clnt",
+					"c.cdld_ecos",
+					"c.CDLD_CURR",
+					"'",
+					",",
+					"s_year_2",
+					"s_month_2",
+					"s_month_1",
+					"s_year_1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 95.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 718.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cust",
+						"cust_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "declare\n  v_disp_scr    number  (01) := 0;\n  v_opr_code    varchar2(03) := '';\n  v_error       gbss_error_messages.errm_code%type;\n  v_errm_desc   gbss_error_messages.errm_desc%type;\n  p_date_jour   date;\n  \n  p_From_un_Reser_ref    number(9) := 0;\n  p_To_un_Reser_ref      number(9) := 0;\n  p_UN_Star_Seq          number(9) := 0;\n  p_log_Star_Seq          number(9) := 0;\n  E_Skip      Exception;\n\ncursor cur_tran is\n\nSelect  D.BHLT_SEQ_NBR    V_From_Reser_ref,\n        C.BHLT_SEQ_NBR    V_To_Reser_ref,\n        D.BHLT_CHEQUE     V_Star_Seq,\n        D.BHLT_ID         V_ORDERED_BY_CUST_ID,\n        D.BHLT_CARD       V_CARD_NBR,\n        D.BHLT_BRANCH         V_FrmBrch,\n        D.BHLT_ACCOUNT         V_FrmCacc,\n        D.BHLT_CURR         V_FrmAccCurr,\n        D.substr(BHLT_ACCOUNT,4,3)         V_FrmAccType,\n        D.substr(BHLT_ACCOUNT,7,7)         V_FrmAccId,\n        D.BHLT_AMOUNT         V_FrmAccAmnt,\n        D.BHLT_OPR_AMOUNT         V_FrmAmnt,\n        D.BHLT_SERVICE         V_FrmCurr,\n        C.BHLT_BRANCH         V_ToBrch,\n        C.BHLT_ACCOUNT         V_ToCacc,\n        C.BHLT_CURR         V_ToAccCurr,\n        C.substr(BHLT_ACCOUNT,4,3)         V_ToAccType,\n        C.substr(BHLT_ACCOUNT,7,7)         V_ToAccId,\n        C.BHLT_AMOUNT         V_ToAccAmnt,\n        C.BHLT_OPR_AMOUNT         V_ToAmnt,\n        C.BHLT_ATM_INFO         V_LocAmnt,\n        D.BHLT_VAL_DATE         V_VAL_DATE_DR,\n        C.BHLT_VAL_DATE         V_VAL_DATE_CR,\n        D.BHLT_B_DESC         V_DB_B_DESC,\n        D.BHLT_S_DESC         V_DB_S_DESC,\n        C.BHLT_B_DESC         V_CR_B_DESC,\n        C.BHLT_S_DESC         V_CR_S_DESC\n  from BBSD_BRCH_HLD_TRANSACTIONS D,\n       BBSD_BRCH_HLD_TRANSACTIONS C\n where D.BHLT_NATURE = 920\n   and C.BHLT_NATURE = 920\n   and D.BHLT_SIGN = 'D'\n   and C.BHLT_SIGN = 'C'\n   and C.BHLT_CHEQUE = D.BHLT_CHEQUE\n order by D.BHLT_SEQ_NBR;\n \n  V_TodayDate    date;\n  V_Data_Text    varchar2(200);\n  \n  V_LocCurr      NUmber(3);\n  V_CNAT_CODE    NUmber(3);\n  V_LocBrch      NUmber(3);\n  V_Count_Oper      NUmber(7);\n  V_Count_errors      NUmber(7);\n  \nbegin\n  \n  V_Count_Oper :=0;\n  V_Count_errors :=0;\n  \n  :s_status := 'Processing';\n  --:parameter.p_date := :s_date;\n  synchronize ;\n  dv_error_log('Started: \" transfer  \"');\n  --the following are important\n  :h_opr_nat := 1;\n  :h_need_line := 1;-- needed to operate\n  :h_need_advice := 2;\n  :h_flag_2 := 1;-- if canceled we get the message \"account can not be debitor\"-- if 1 => No Overdraw -- if 0 => Overdraw request\n  :h_flag_3 := 1;   \n  :line_seq :=1;  \n      \n  BEGIN\n    SELECT  SYST_NUMBER\n      INTO  V_LocCurr\n      FROM  GBSS_SYSTEMS\n     WHERE SYST_CODE = 'LOCCURR';\n  EXCEPTION\n    WHEN OTHERS THEN V_LocCurr := 0;\n  END;\n     \n  BEGIN\n    select ud.brch_code\n      INTO  V_LocBrch\n      from gbss_users_defs  ud\n     where ud.udef_code = user;\n  EXCEPTION\n    WHEN OTHERS THEN V_LocBrch := 0;\n  END;\n\n  for data_tran in cur_tran \n   loop    \n    BEGIN   -- end with e_skip to rollback current operation\n      V_Count_Oper :=V_Count_Oper+1;\n      p_log_Star_Seq := DV_ONLINE_TRANS_LOG_T('OT_BG_TRN',\n                              'Beging generating transaction', --IN_LOG_DESC \n                              data_tran.V_FrmAccId ,--IN_ORDERED_BY_CUST_ID , \n                              data_tran.V_TodayDate,\n                              data_tran.V_FrmBrch,   --IN_BRCH_CODE\n                              data_tran.V_FrmCacc,   --IN_CACC_NUM_FROM \n                              data_tran.V_FrmAccCurr,   --IN_CURR_CODE_FROM\n                              data_tran.V_FrmAccAmnt,   --IN_AMNT_VAR_FROM \n                              data_tran.V_ToBrch,   --IN_BRCH_CODE_TO\n                              data_tran.V_ToCacc,   --IN_CACC_NUM_TO \n                              data_tran.V_ToAccCurr,   --IN_CURR_CODE_TO\n                              data_tran.V_ToAccAmnt,   --IN_AMNT_VAR_TO\n                              data_tran.V_From_Reser_ref,   --IN_RESER_REF_FROM\n                              data_tran.V_To_Reser_ref,   --IN_RESER_REF_TO\n                              data_tran.V_Star_Seq,   --IN_JOIN_SEQ \n                              0 --IN_RESP_CODE \n                              );\n\n    -- added Elia 5/11/2012 -- value date employee\n    BEGIN\n      SELECT nvl(CNAT_CODE,0)\n      INTO  V_CNAT_CODE\n      FROM  BBSD_CUSTOMERS\n      WHERE CUST_ID = data_tran.V_FrmAccId;\n    EXCEPTION\n      WHEN OTHERS THEN V_CNAT_CODE := 0;--Standard conditions\n    END;\n    \n/*\n\naa  A1_BRANCH\nab  A1_ACCOUNT\nma  M1_AMOUNT\nad  A1_CURRENCY\nni  T1_TEXT\nmq  D1_VAL_DATE\na3  LOCAL_BRANCH\nCT  select lpad(to_char(tllr_cash_code),3,'0') sel_char from bbsc_tellers where udef_code =user\n\na1  TODAY_DATE\npa  F1_COMMISSION\nmj  V2_CV_AMOUNT\nmi  V1_CV_AMOUNT\nka  C1_CURRENCY\nna  R1_RATE\nqi  R1_RATE_LOCAL\nkb  C1_SWIFT_CURR\nap  A1_SWIFT_CURR\na5  LOCAL_CURRENCY\nat  A1_SWIFT_CUR2   --curr_iso\n\n*/\n    :local_branch := V_LocBrch;\n    :local_currency := V_LocCurr;\n    :TODAY_DATE:=trunc(sysdate,'DD');\n  \n  /*    \n    BEGIN\n      SELECT CURR_ISO\n      INTO  :A1_SWIFT_CURR\n      FROM  bbsc_currencies\n      WHERE curr_code = data_tran.to_curr;\n    EXCEPTION\n      WHEN OTHERS THEN :A1_SWIFT_CURR := '';\n    END; \n    (select ccc.CURR_ISO\n         from bbsc_currencies ccc\n         where ccc.curr_code = HH.BHLT_CURR)   to_curr_iso,\n    :A1_SWIFT_CURR := data_tran.to_curr_iso; \n  */ \n    :T1_TEXT :='Online Transfer'; --data_tran.B_DESC;\n\n    :H_CARD_NBR  :=  data_tran.V_CARD_NBR;\n    :H_FRM_BRCH  :=  data_tran.V_FrmBrch;\n    :H_FRM_CACC  :=  data_tran.V_FrmCacc;\n    :H_FRM_ACC_CURR  :=  data_tran.V_FrmAccCurr;\n    :H_FRM_ACC_ACTP  :=  data_tran.V_FrmAccType;\n    :H_FRM_ACC_ID  := data_tran.V_FrmAccId ;\n    :H_FRM_ACC_AMNT  := data_tran.V_FrmAccAmnt ;\n    :H_FRM_ACC_COMM  := 0 ;\n    :H_FRM_AMNT  := data_tran.V_FrmAmnt ;\n    :H_FRM_COMM  := 0 ;\n    :H_FRM_CURR  := data_tran.V_FrmCurr ;\n    :H_TO_BRCH := data_tran.V_ToBrch ;\n    :H_TO_CACC := data_tran.V_ToCacc ;\n    :H_TO_ACC_CURR := data_tran.V_ToAccCurr ;\n    :H_TO_ACC_ACTP := data_tran.V_ToAccType ;\n    :H_TO_ACC_ID := data_tran.V_ToAccId ;\n    :H_TO_ACC_AMNT := data_tran.V_ToAccAmnt ;\n    :H_TO_ACC_COMM := 0 ;\n    :H_TO_AMNT := data_tran.V_ToAmnt ;\n    :H_TO_COMM := 0 ;\n    :H_LOC_AMNT  := data_tran.V_LocAmnt ;\n    :H_LOC_COMM  := 0 ;\n    :H_LOC_CURR  := V_LocCurr ;\n    :H_NARR1 := 0 ;\n    :H_NARR2 := 0 ;\n    :H_NARR3 := 0 ;\n    :H_NARR_POS1 := 0 ;\n    :H_NARR_COMM1  := 0 ;\n    :H_NARR_FEE1 := 0 ;\n    :H_FRM_CURR_ISO  := 'XXX' ;\n    :H_TO_CURR_ISO := 'XXX' ;\n    :H_PROC_CODE := null ;\n    :H_TRS_DATE_TIME := data_tran.V_TodayDate ;\n    :H_TRACE_AUDIT_NBR := 0 ;\n    :H_RET_REF_NBR := 0 ;\n    :H_TRN_BANK_REF  := 0 ;\n    :H_TODAY_DATE  := :TODAY_DATE ;\n    :H_VAL_DATE_DR := data_tran.V_VAL_DATE_DR ;\n    :H_VAL_DATE_CR := data_tran.V_VAL_DATE_CR ;\n\n     /*                    \n     :s_date := parameter.p_date;      \n     :s_status := 'Processing Trns: ';\n     :line_seq             := :line_seq+1;\n\n     :dvs_date_execution   := p_date_jour;\n     :dvs_old_val_date     := p_date_jour;\n     :dvs_brch_code        := data_tran.brch_code;\n     :h_branch             := data_tran.brch_code;\n     :dvs_curr_code        := data_tran.curr_code;\n     :dvs_cacc_num         := data_tran.cacc_num;\n     :dvs_purchased_amount := abs(data_tran.total);\n     :dvs_amount_2         := abs(data_tran.total)/2;\n     :dvs_desc             := 'Ristourne des frais mediaform';\n     :dvs_prog_flg         := 04;  --(Module = RDVL S/Module CHL  need=DOD)\n     :h_opr_amount         := 0;\n     :dvs_trs_date         := p_date_jour;\n     */   \n    generate_operation (:parameter.p_module, :parameter.p_sub_module,\n                          v_opr_code, v_disp_scr, v_error);\n                        \n     --alert_mess('v_error'||v_error,'note');\n     --alert_mess('v_opr_code'||v_opr_code,'note');\n     --alert_mess('v_disp_scr'||v_disp_scr,'note');\n                          \n     if v_error is null then\n        clear_message;\n        /*\n        Clear reservations and update balance for both accounts\n        */  \n        p_From_un_Reser_ref := DV_ONLINE_TRANS_RESER_REM (data_tran.V_From_Reser_ref) ;\n        if nvl(p_From_un_Reser_ref,-1) =-1 then\n          V_Count_errors := V_Count_errors +1;\n          p_log_Star_Seq := DV_ONLINE_TRANS_LOG_T('OT_ER_GEN',\n                              'Error removing reservation log no '||data_tran.V_From_Reser_ref, --IN_LOG_DESC \n                              data_tran.V_FrmAccId ,--IN_ORDERED_BY_CUST_ID , \n                              data_tran.V_TodayDate,\n                              data_tran.V_FrmBrch,   --IN_BRCH_CODE\n                              data_tran.V_FrmCacc,   --IN_CACC_NUM_FROM \n                              data_tran.V_FrmAccCurr,   --IN_CURR_CODE_FROM\n                              data_tran.V_FrmAccAmnt,   --IN_AMNT_VAR_FROM \n                              data_tran.V_ToBrch,   --IN_BRCH_CODE_TO\n                              data_tran.V_ToCacc,   --IN_CACC_NUM_TO \n                              data_tran.V_ToAccCurr,   --IN_CURR_CODE_TO\n                              data_tran.V_ToAccAmnt,   --IN_AMNT_VAR_TO\n                              data_tran.V_From_Reser_ref,   --IN_RESER_REF_FROM\n                              data_tran.V_To_Reser_ref,   --IN_RESER_REF_TO\n                              data_tran.V_Star_Seq,   --IN_JOIN_SEQ \n                              -1 --IN_RESP_CODE \n                              );\n          RAISE E_Skip;\n        end if;\n        p_To_un_Reser_ref   := DV_ONLINE_TRANS_RESER_REM (data_tran.V_To_Reser_ref) ;\n        if nvl(p_To_un_Reser_ref,-1) =-1 then\n          V_Count_errors := V_Count_errors +1;\n          p_log_Star_Seq := DV_ONLINE_TRANS_LOG_T('OT_ER_GEN',\n                              'Error removing reservation log no '||data_tran.V_To_Reser_ref, --IN_LOG_DESC \n                              data_tran.V_FrmAccId ,--IN_ORDERED_BY_CUST_ID , \n                              data_tran.V_TodayDate,\n                              data_tran.V_FrmBrch,   --IN_BRCH_CODE\n                              data_tran.V_FrmCacc,   --IN_CACC_NUM_FROM \n                              data_tran.V_FrmAccCurr,   --IN_CURR_CODE_FROM\n                              data_tran.V_FrmAccAmnt,   --IN_AMNT_VAR_FROM \n                              data_tran.V_ToBrch,   --IN_BRCH_CODE_TO\n                              data_tran.V_ToCacc,   --IN_CACC_NUM_TO \n                              data_tran.V_ToAccCurr,   --IN_CURR_CODE_TO\n                              data_tran.V_ToAccAmnt,   --IN_AMNT_VAR_TO\n                              data_tran.V_From_Reser_ref,   --IN_RESER_REF_FROM\n                              data_tran.V_To_Reser_ref,   --IN_RESER_REF_TO\n                              data_tran.V_Star_Seq,   --IN_JOIN_SEQ \n                              -1 --IN_RESP_CODE \n                              );\n          RAISE E_Skip;\n        end if;\n        p_UN_Star_Seq := DV_ONLINE_TRANS_LOG_T('OT_EN_TRN',\n                              'End (conclude) generating transaction', --IN_LOG_DESC \n                              data_tran.V_FrmAccId ,--IN_ORDERED_BY_CUST_ID , \n                              data_tran.V_TodayDate,\n                              data_tran.V_FrmBrch,   --IN_BRCH_CODE\n                              data_tran.V_FrmCacc,   --IN_CACC_NUM_FROM \n                              data_tran.V_FrmAccCurr,   --IN_CURR_CODE_FROM\n                              data_tran.V_FrmAccAmnt,   --IN_AMNT_VAR_FROM \n                              data_tran.V_ToBrch,   --IN_BRCH_CODE_TO\n                              data_tran.V_ToCacc,   --IN_CACC_NUM_TO \n                              data_tran.V_ToAccCurr,   --IN_CURR_CODE_TO\n                              data_tran.V_ToAccAmnt,   --IN_AMNT_VAR_TO\n                              data_tran.V_From_Reser_ref,   --IN_RESER_REF_FROM\n                              data_tran.V_To_Reser_ref,   --IN_RESER_REF_TO\n                              data_tran.V_Star_Seq,   --IN_JOIN_SEQ \n                              0 --IN_RESP_CODE \n                              );\n        no_message('commit_form');\n     else\n        error_display(v_error,1,false);--true\n        begin\n          select errm_desc\n            into v_errm_desc\n            from gbss_error_messages\n           where errm_code = v_error\n             and rownum =1;   \n        exception when others then null;\n        end;     \n        V_Count_errors := V_Count_errors +1;\n        p_log_Star_Seq := DV_ONLINE_TRANS_LOG_T('OT_ER_GEN',\n                            'Error gen transactions for joint seq '||data_tran.V_Star_Seq||\n                            ' ErrNo '||v_error||' '||v_errm_desc, --IN_LOG_DESC \n                            data_tran.V_FrmAccId ,--IN_ORDERED_BY_CUST_ID , \n                            data_tran.V_TodayDate,\n                            data_tran.V_FrmBrch,   --IN_BRCH_CODE\n                            data_tran.V_FrmCacc,   --IN_CACC_NUM_FROM \n                            data_tran.V_FrmAccCurr,   --IN_CURR_CODE_FROM\n                            data_tran.V_FrmAccAmnt,   --IN_AMNT_VAR_FROM \n                            data_tran.V_ToBrch,   --IN_BRCH_CODE_TO\n                            data_tran.V_ToCacc,   --IN_CACC_NUM_TO \n                            data_tran.V_ToAccCurr,   --IN_CURR_CODE_TO\n                            data_tran.V_ToAccAmnt,   --IN_AMNT_VAR_TO\n                            data_tran.V_From_Reser_ref,   --IN_RESER_REF_FROM\n                            data_tran.V_To_Reser_ref,   --IN_RESER_REF_TO\n                            data_tran.V_Star_Seq,   --IN_JOIN_SEQ \n                            -2--IN_RESP_CODE \n                            );\n        RAISE E_Skip;     \n     end if;  \n     EXCEPTION\n        WHEN E_Skip THEN\n        ROLLBACK;-- TO TRS_POINT;\n     --      WHEN E_Skip THEN NULL;\n     END;\n   end loop;\n  \n   if V_Count_errors <> 0 then\n      alert_mess(V_Count_errors||' errors occured please check error log in Online Transfer Management application.','note');\n   end if;\n   alert_mess(V_Count_Oper||' Operations processed.','note');\n\n   :s_status := 'Finished';\n   synchronize ;\n --:global.locbrch := v_tmp_brch_code;\n --Exit_Frm;\nexception when others then \n  alert_mess('error _num:'||v_error||' '||sqlcode || '  ' || substr(sqlerrm,1,200),'note');\nend;\n  \n\n",
+					"settings":
+					{
+						"buffer_size": 14248,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n\ndev01338",
+					"settings":
+					{
+						"buffer_size": 10,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Nidal Collector work queue.sql",
+					"settings":
+					{
+						"buffer_size": 21258,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Gaby Wedding list payments.sql",
+					"settings":
+					{
+						"buffer_size": 15022,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/Gaby request.sql",
+					"settings":
+					{
+						"buffer_size": 24565,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/DV_EBANKING_TRANSFER_RES.sql",
+					"settings":
+					{
+						"buffer_size": 30575,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/ATM CashDep new procedures.sql",
+					"settings":
+					{
+						"buffer_size": 83389,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/ATM procedures updated.sql",
+					"settings":
+					{
+						"buffer_size": 62072,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n\nselect \n         nvl((select Decode(DT.CUST_ID,999999999,'Total',M.brch_code)\n         from bbsd_customers  M\n        where M.CUST_ID = DT.CUST_ID ),'Total') ||'|'||\n        DT.CUST_ID   ||'|'||\n        nvl((select Decode(DT.CUST_ID,999999999,'Total',M.CUST_B_NAME)\n               from bbsd_customers  M\n              where M.CUST_ID = DT.CUST_ID ),'Total')  ||'|'||\n        DT.LIMIT_USD ||'|'||   \n        DT.UTILIZED_USD||'|'|| \n        DT.PURPOSE_TEXT ||'|'||\n        DT.PLEDGE_USD||'|'|| \n        DT.PLEDGE_EUROONDS_USD||'|'||\n        DT.MARGIN_BLOCKED_USD||'|'||\n        DT.MORTGAGE_USD||'|'||\n        (-DT.LIMIT_USD+(+\n        DT.PLEDGE_USD+\n        DT.PLEDGE_EUROONDS_USD+\n        DT.MARGIN_BLOCKED_USD+\n        DT.MORTGAGE_USD*.5))||'|'||\n        DT.NOTARIZED_MRTG_USD||'|'||\n        DT.FINANTIAL_INST_USD||'|'||\n        DT.PREFERRED_SHARES_USD||'|'|| \n        DT.CR_CURRENT_USD||'|'||\n        DT.CR_BLOCKED_USD ||'|'||\n        DT.GUARANTIES_TEXT ||'|'|| \n        (select  sum(e.GEEX_LC_ESTM_VAL)/dv_curr_rate(101,sysdate)\n           from  bbsd_grtees_m a,\n                 --bbsd_grtees_blk_accnts    c,\n                 (select distinct substr(c1.gbla_cacc,7,7)  gbla_cacc_id,\n                         c1.grtm_sequence\n                    from bbsd_grtees_blk_accnts c1) c,\n                 BBSD_GRTEES_ESTATE_EXPERTS_D  e\n           where a.grtm_sequence = c.grtm_sequence\n             and a.GTYP_CODE in (9,10,12)\n             and DT.cust_id = c.gbla_cacc_id\n             AND a.grtm_sequence = e.grtm_sequence\n             and nvl(e.GEEX_NEW_EST_FLG,1) = 1)||'|'||  \n        nvl((select Decode(DT.CUST_ID,999999999,'Total',decode(M.cctg_code,4,'SMM',1,'RET',2,'COR',null))\n         from bbsd_customers  M\n        where M.CUST_ID = DT.CUST_ID ),'Total')   ||'|'||\n        nvl((select F.CCLS_CODE||'- '||f.ccls_b_desc \n               from bbsd_customers  M,\n                    bbsc_cr_classes f\n              where M.CUST_ID = DT.CUST_ID\n                and nvl(M.ccls_code,0)=f.ccls_code ),'Total')  ||'|'||\n        (SELECT TRUNC(MAX(L.TIME_STAMP),'DD') \n           FROM DV_CHANGE_CCLS_CODE L\n          WHERE L.OLD_CCLS_CODE <> L.NEW_CCLS_CODE\n            AND L.CUST_ID = DT.CUST_ID)        ||'|'||\n        replace(replace(DV_DYNA_EXEC.DV_GET_FIELD_VALUE('CASLSCOM',DT.Cust_Id ,1),CHR(10),';'),CHR(13),';') ||'|'||\n        DT.REMARKS_TEXT    ||'|'||\n        replace(replace(DV_DYNA_EXEC.DV_GET_FIELD_VALUE('CASLSCOM',DT.Cust_Id ,4),CHR(10),';'),CHR(13),';') ||'|'||\n      --  (select ECOS_B_DESC\n       --    from BBSC_ECONOMIC_SECTORS  M,\n       --   where M.ECOS_code = DT.ECOS_CODE) ||'|'|| \n        dv_join( cursor(  \n          select EC.ECOS_B_DESC\n   from bbsd_physical_persons  P,\n        bbsd_cust_members   CM,\n        BBSC_ECONOMIC_SECTORS  EC\n   where CM.CUST_ID = DT.CUST_ID     \n     and CM.cusm_type = 1\n     and CM.cusm_id = P.phpr_id\n     and EC.ECOS_code = P.ECOS_CODE\n  union\n  select EC.ECOS_B_DESC\n   from bbsd_Moral_persons  P,\n        bbsd_cust_members   CM,\n        BBSC_ECONOMIC_SECTORS  EC\n   where CM.CUST_ID = DT.CUST_ID     \n     and CM.cusm_type = 2\n     and CM.cusm_id = P.mrpr_id\n     and EC.ECOS_code = P.ECOS_CODE ),';')||'|'|| \n        DT.CAS_GROUP_ID ||'|'||\n        (\n          select CGRM_B_NAME\n            from BBSD_CUST_GROUPS_M  M\n           where \n                 M.cgrm_code = DT.CAS_GROUP_ID\n        )                                        ||'|'||\n        dv_get_managed_by(DT.Cust_Id,3)   ||'|'||\n        dv_get_managed_by(DT.Cust_Id,2) ||'|'||\n        DT.LC_EXPORT||'|'        \n   from (\n         \n         select V1.CAS_GROUP_ID,    \n                V1.CUST_ID ,    \n                V1.ENTRY_DATE,\n                BR.ECOS_CODE,     \n                replace(replace(BR.PURPOSE_TEXT,chr(10),';'),chr(13),';')PURPOSE_TEXT,     \n                replace(replace(BR.GUARANTIES_TEXT,chr(10),';'),chr(13),';') GUARANTIES_TEXT,\n                replace(replace(BR.REMARKS_TEXT,chr(10),';'),chr(13),';')REMARKS_TEXT,    \n                BR.LIMIT_USD,   \n                BR.UTILIZED_USD,  \n                BR.PLEDGE_USD, \n                BR.PLEDGE_EUROONDS_USD,\n                BR.MARGIN_BLOCKED_USD,\n                BR.MORTGAGE_USD,\n                BR.NOTARIZED_MRTG_USD,\n                BR.FINANTIAL_INST_NBR,\n                BR.FINANTIAL_INST_USD,\n                BR.PREFERRED_SHARES_USD,\n                BR.CR_CURRENT_USD,\n                BR.CR_BLOCKED_USD,\n                BR.LC_EXPORT  \n          from DV_CAS_BOARD_REPORT_V V1,\n               DV_CAS_BOARD_REPORT   BR \n         where V1.ENTRY_DATE = to_date(''||to_char(:prog_block.S_DATE,'DD/MM/YYYY')||'','DD/MM/YYYY')\n           and V1.LIMIT_USD >= '||nvl(:prog_block.S_GREATER_AMOUNT,0)||'\n           and V1.ENTRY_DATE = BR.ENTRY_DATE\n           and V1.CAS_GROUP_ID = BR.CAS_GROUP_ID     \n           and V1.CUST_ID = BR.CUST_ID\n           --and v1.cust_id= 200337\n        Union   \n        select  V1.CAS_GROUP_ID  ,    \n                99999999  CUST_ID,    \n                V1.ENTRY_DATE    ,\n                null     ECOS_CODE,     \n                null     PURPOSE_TEXT,     \n                null     GUARANTIES_TEXT,     \n                null     REMARKS_TEXT,    \n                nvl(sum(nvl(BR.LIMIT_USD,0)),0) LIMIT_USD,   \n                nvl(sum(nvl(BR.UTILIZED_USD,0)),0) UTILIZED_USD,  \n                nvl(sum(nvl(BR.PLEDGE_USD,0)),0) PLEDGE_USD, \n                nvl(sum(nvl(BR.PLEDGE_EUROONDS_USD,0)),0) PLEDGE_EUROONDS_USD,\n                nvl(sum(nvl(BR.MARGIN_BLOCKED_USD,0)),0) MARGIN_BLOCKED_USD,\n                nvl(sum(nvl(BR.MORTGAGE_USD,0)),0) MORTGAGE_USD,\n                nvl(sum(nvl(BR.NOTARIZED_MRTG_USD,0)),0) NOTARIZED_MRTG_USD,\n                nvl(sum(nvl(BR.FINANTIAL_INST_NBR,0)),0) FINANTIAL_INST_NBR,\n                nvl(sum(nvl(BR.FINANTIAL_INST_USD,0)),0) FINANTIAL_INST_USD,\n                nvl(sum(nvl(BR.PREFERRED_SHARES_USD,0)),0) PREFERRED_SHARES_USD,\n                nvl(sum(nvl(BR.CR_CURRENT_USD,0)),0) CR_CURRENT_USD,\n                nvl(sum(nvl(BR.CR_BLOCKED_USD,0)),0) CR_BLOCKED_USD,\n                nvl(sum(nvl(BR.LC_EXPORT,0)),0) LC_EXPORT\n          from DV_CAS_BOARD_REPORT_V V1,\n               DV_CAS_BOARD_REPORT   BR \n         where V1.ENTRY_DATE = to_date(''||to_char(:prog_block.S_DATE,'DD/MM/YYYY')||'','DD/MM/YYYY')\n           and V1.LIMIT_USD >= '||nvl(:prog_block.S_GREATER_AMOUNT,0)||'\n           and V1.ENTRY_DATE = BR.ENTRY_DATE\n           and V1.CAS_GROUP_ID <>0 \n           and V1.CAS_GROUP_ID = BR.CAS_GROUP_ID     \n           and V1.CUST_ID = BR.CUST_ID   \n      group by V1.CAS_GROUP_ID,V1.ENTRY_DATE )  DT \norder by DT.CAS_GROUP_ID,DT.CUST_ID\n\n\n",
+					"settings":
+					{
+						"buffer_size": 6624,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n\n\n\nDV_FINANCIAL_INSTRUMENTS\n\nDATE_EOM                   \nHOLDER_CUST_ID             \nDEBTOR_CUST_ID             \nTYPE_DESC_OF_SECURITY      \nLIABILITY_TYPE             \nCURR_CODE                  \nNBR_OF_SECURITY_HELD       \nUNIT_MARKET_PRICE          \nPROGRAM_ID                 \nUSER_ID                    \nTIME_STAMP                 \nCDR_COUNTRY  \n\n\ninsert into BBSD_CDRS_LIABILITIES_D\n(\nCDLM_YEAR          , \nCDLM_MONTH         , \nCDLM_CUST_GRP      , \nCDLM_ID            , \nCDLD_CDLG          , \nCDLD_CLSG          , \nCDLD_CLBT          , \nCDLD_CLNT          , \nCDLD_CR_LC         , \nCDLD_UT_LC         , \nCDLD_CR_FX         , \nCDLD_UT_FX         , \nCDLD_CURR          , \nCDLD_REMAIN_PERIOD , \nCDLD_RISK_CLASS    , \nCDLD_MARGE         , \nCDLD_ECOS          , \nCDLD_UTIL_CTRY     , \nNODE_ID            , \nPROGRAM_ID         , \nUSER_ID            , \nTIME_STAMP         , \nCDLD_SEQ           \n)\n(\nselect   :s_year,\n         :s_month,\n         1,\n         FI.DEBTOR_CUST_ID, \n         LT.CDLG_CODE,\n         LT.CLSG_CODE,\n         LT.CLBT_TYPE,        \n         0,        \n         0,        \n         sum(,        \n         0,        \n         sum(, \nCDLD_CURR             \nCDLD_REMAIN_PERIOD    \nCDLD_RISK_CLASS       \nCDLD_MARGE            \nCDLD_ECOS             \nCDLD_UTIL_CTRY        \nNODE_ID               \nPROGRAM_ID            \nUSER_ID               \nTIME_STAMP            \nCDLD_SEQ              \n\nfrom DV_FINANCIAL_INSTRUMENTS FI,\n     BBSC_CDRS_LIBTYPES   LT\nwhere FI.DATE_EOM = last_day(to_date('1/'||:s_month||'/'||:s_year,'DD/MM/YYYY'))\n  and Fi.LIABILITY_TYPE = LT.CLBT_CODE\n  and \n;\n\n\n\nselect * \nfrom\nbbsp_cdrs_libtyp_acctyps\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 1646,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 355.0,
+				"last_filter": "git",
+				"selected_items":
+				[
+					[
+						"git",
+						"Git: Quick Commit (current file)"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 725.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"git_quick_commit",
+					"git commit",
+					"commit",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"Package Control;",
+					"Package Control",
+					"Package Control: Install Package"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-20 .sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-29 .sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-28.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-02-23.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-10.sql",
+				"/C/rdf-joined.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields KFS.sql",
+				"/X/Documents/Elia/sql/Desktop/Factoring/Factoring table.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/script 1.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/script.sql",
+				"/X/Documents/Elia/sql/Desktop/Myriam CDR Financial Instruments.sql",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/sublime-text-git/README.markdown",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/sublimetext-markdown-preview/sample.md",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/elia_harmouche/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/X/Documents/Elia/sql/Desktop/Soumar rate margin.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-07-26.log",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170729001.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170729002.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170731001.TXT",
+				"/C/Users/elia_harmouche/Desktop/ddd.txt",
+				"/C/Users/elia_harmouche/Desktop/ss.txt",
+				"/C/Program Files (x86)/Privoxy/config.txt",
+				"/X/Documents/Elia/sql/Desktop/IMPORTANT select to initalise PB02.sql",
+				"/C/Users/elia_harmouche/Desktop/CBNetCommerceReport/Database/1-Make sure that all the database is created.sql",
+				"/C/Users/elia_harmouche/Desktop/CBNetCommerceReport/Database/2-2017-07-13 Payment Report.sql",
+				"/C/Users/elia_harmouche/Desktop/CBNetCommerceReport/Read me.txt",
+				"/X/Documents/Elia/sql/Desktop/Reda Class CDR Pivot.sql",
+				"/X/Documents/Elia/sql/Desktop/Transfers online 24 7/Gaby request.sql",
+				"/X/Documents/Elia/sql/Desktop/Nidal Collector work queue.sql",
+				"/X/java/NetBeans8/webBanking3/sql/SelectBeneficiaryName.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD KFS APR from table.sql",
+				"/X/Documents/Elia/sql/Desktop/Reda Board report addition.sql",
+				"/C/tmp/abboud pb02/old/insert30_06_2017.txt",
+				"/C/Users/elia_harmouche/Desktop/log/2017-07-14.log",
+				"/C/Users/elia_harmouche/Desktop/log/WebPreApplicationInit.txt",
+				"/C/Users/elia_harmouche/Desktop/log/ServicePreApplicationInit.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/insert31_03_2017.txt",
+				"/C/tmp/abboud pb02/insert31_03_2017.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 5.SQL",
+				"/C/tmp/abboud pb02/PB02_30062017_a3_LBP.xlsx.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/insert30_06_2017.txt",
+				"/C/tmp/abboud pb02/old/insert31_03_2017.txt",
+				"/X/Documents/Elia/sql/Desktop/DV_EBANKING_TRANSFER beneficiary acc.sql",
+				"/C/Users/elia_harmouche/Desktop/sdfs",
+				"/C/icbs/It_Dev/Dev01436.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-07-06 Report Proceedure.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-02-23.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-10.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-20 .sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-28.sql",
+				"/C/Users/elia_harmouche/Desktop/New folder/2017-03-29 .sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/CARD Contract printing 4 (3).sql",
+				"/X/java/NetBeans8/webBanking3/sql/SelectCust.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectCROs.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectAcc.sql",
+				"//192.168.12.22/c$/Users/Elia_harmouche/Desktop/Glass fish ADMIN.txt",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectBranches.sql",
+				"//192.168.0.179/c$/JavaApp/webBanking3/sql/SelectWedAccIban.sql",
+				"/C/Users/elia_harmouche/Desktop/2017-06-29.log",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectBranches.sql",
+				"/X/Documents/Elia/sql/Desktop/Hind Domisiliation draw 2012.sql",
+				"/C/Windows/WindowsUpdate.log",
+				"/C/tmp/abboud pb02/PB02_31032017_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/Desktop/BS_AI_CASHDEP.sql",
+				"/X/Documents/Elia/sql/Desktop/ATM Cash deposit/ATM CashDep new procedures.sql",
+				"/X/Documents/Elia/sql/Denise Fares bal II/BasleII queries elia  4_8_2010.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/ITHT025R_QUERY.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/AD_C20170530001.txt",
+				"/C/javaApp/webBanking3/sql/SelectWedAccIban.sql",
+				"/C/javaApp/webBanking3/sql/SelectWedClientsInfo.sql",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedAccIban_output.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_input.xml",
+				"/C/Users/elia_harmouche/Desktop/getWedClientsInfo_output.xml",
+				"/C/javaApp/webBanking3/sql/SelectAcc.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Address.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Danielle contracts automation.txt",
+				"/C/javaApp/webBanking3/sql/SelectCust.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/dv_get_Managed_by.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script (3).sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/Cards Classification Update Script.sql",
+				"/X/Documents/Elia/sql/Desktop/eBanking Beneficiary transfer.sql",
+				"/X/Documents/Elia/sql/Desktop/Soumar Relation.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version4.sql",
+				"/C/Users/elia_harmouche/Pictures/comm Combo card/IMG_6357.txt",
+				"/C/javaApp/webBanking3/sql/SelectTrans.sql",
+				"/C/Users/elia_harmouche/Desktop/meta.txt",
+				"/C/Users/elia_harmouche/Desktop/dd.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/SELECT_Cust_per_Hits_Version5.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/21_DV00055R.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/WC_CreditBank.txt",
+				"/C/Users/elia_harmouche/Desktop/BI170509004.TXT",
+				"/C/Users/elia_harmouche/Desktop/BI170509003.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170509002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508002.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/BI170508001.TXT",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/DETAILS.txt",
+				"/C/icbs/It_Dev/Pos_smm_corp_Mix.txt",
+				"/X/Documents/Elia/sql/Desktop/Get Sent SMS.sql",
+				"/C/Downloads/16348986-LEBANON-companies-contact-details.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_readmefirst.txt",
+				"/C/Users/elia_harmouche/Downloads/4nec2/_Info.txt",
+				"/C/Users/elia_harmouche/repos/README.txt",
+				"/C/Users/elia_harmouche/AppData/Roaming/SumatraPDF/SumatraPDF-settings.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/cards classification update script.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 3.SQL",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/MinCrdb170425-Charge.txt",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/dv_spell_number.sql",
+				"/X/Documents/Elia/sql/Desktop/soumar closed accounts.sql",
+				"/C/Users/elia_harmouche/Desktop/REDA.sql",
+				"/C/tmp/abboud pb02/PB02_31122016_a3_a31_USD.xlsx.txt",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/chkimp.txt",
+				"/C/javaApp/webBanking3/sql/SelectBranches.sql",
+				"/X/source/VS.Net/ApplicationDocumentor/ApplicationDocumentor/app.config",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/CARD Contract printing 2.sql",
+				"/C/Users/elia_harmouche/Desktop/install.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Fields Contracts.sql",
+				"/C/Downloads/.ptmp30207/libwebp-0.6.0-windows-x64/Readme.txt",
+				"/X/Documents/Elia/sql/Retail Loans interface/Retail Loan Applications.sql",
+				"/C/Users/elia_harmouche/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/X5J9Q58V/2017-03-29 statistical report update.sql",
+				"//192.168.0.215/javaApp/webBanking3/sql/SelectCust.sql",
+				"//192.168.12.22/javaApp/webBanking3/sql/SelectCust.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/Limit optional.sql",
+				"/X/Documents/Elia/sql/Desktop/Contract printing/soumar closed accounts.sql"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"payment",
+					"payment report",
+					"payment report is",
+					"payment report is generated.",
+					"OperationResultId",
+					"TODAY_DATE",
+					"V_TodayDate",
+					"V_VAL_DATE_DR",
+					"V_TodayDate",
+					"V_Inside_working_hours_flg",
+					"1507",
+					"V_LocAmnt",
+					"V_FrmAccAmnt",
+					"P_InFrmAmntChr",
+					"V_FrmAmnt",
+					"P_InProcCode",
+					"DV_ONLINE_TRANS_RESER",
+					"V_FrmAccCurr",
+					"V_FrmCurr",
+					"in_BHLT_TIME_STAMP",
+					"192.168",
+					"er_",
+					"OT_ER_GEN",
+					"H_",
+					"P_InTrsDateTime",
+					"P_InProcCode",
+					" ",
+					",",
+					"~",
+					"'",
+					"||",
+					"P_InTrsDateTime",
+					"V_Inside_working_hours_flg",
+					"BHLT_MSG_TYPE",
+					"BHLT_NATURE",
+					"V_LocAmnt",
+					"V_LocCurr",
+					"P_InProcCode",
+					"IN_Sign",
+					"BHLT_NATURE",
+					"V_AvailOthBr",
+					"P_OutBankRef",
+					"V_BhltSeq",
+					"v_rate",
+					"'",
+					"p_gen",
+					"''",
+					"''\n",
+					"{5b6a730f-e6ba-4b52-b849-5d727f61e2ed}\n",
+					"26",
+					"P_RespCode := 3;",
+					"151",
+					"P_INTRSDATETIME",
+					"P_INPROCCODE",
+					"CODE ",
+					"\\n",
+					" ",
+					",",
+					"\\n",
+					" ",
+					"Aging",
+					"AGEING",
+					"\"\"",
+					">\"",
+					"\" ",
+					"\"",
+					"?",
+					"V_InCVAmnt",
+					"V_InAmnt",
+					"V_InAmntChr",
+					"P_InAmntChr",
+					"V_IN_AMNT_LBP",
+					"V_MAX_AMNT_LBP",
+					"cts",
+					",",
+					"Benefitiary",
+					"092",
+					"?",
+					" ",
+					"keywords",
+					"keyw",
+					"benef",
+					"ben",
+					"intro",
+					"P_Solde",
+					"V_BASED_ON",
+					"V_LOC_RATE",
+					"V_FRN_RATE",
+					"RADIO_TYPE",
+					"65399165",
+					"5124040000000782",
+					"4339812021340270",
+					";\"",
+					"\"update",
+					" ",
+					"p_date_du",
+					"p_date_au",
+					"LIBOR01",
+					"POINTS01",
+					"Total_Bills",
+					"Total_Loan_Amount",
+					"POINTS01",
+					"APRCRD01",
+					"-",
+					"DV_ATM_ACC_TRN",
+					"suz",
+					"DV_CAL_APR",
+					"csts",
+					"AGEING",
+					"AGING",
+					"AGEING",
+					"user",
+					"dv_get_collector_branch",
+					"Customer_ID",
+					"Managed_by",
+					"Aging",
+					"cnat_code",
+					"group_user",
+					" ",
+					"dv_get_collector_branch",
+					"DV_ILO_FOLLOW_UP01382_TEST.",
+					"||'|'||",
+					"''",
+					"7.5",
+					"CreditorInterestRate",
+					"mat",
+					"CreditorInterestRate ",
+					"date"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					":H_",
+					"",
+					"V_Sign",
+					"''",
+					"'",
+					",",
+					"",
+					"\"",
+					">",
+					" ",
+					"\"\"",
+					"",
+					"\\n",
+					"/n",
+					"",
+					";",
+					"update",
+					"_",
+					"v_date_du",
+					"v_date_au",
+					",",
+					"_",
+					"FU.",
+					",",
+					"'",
+					"XXXXXXXX",
+					"",
+					"''",
+					",",
+					"'",
+					",",
+					"'",
+					"",
+					"'",
+					"'30/09/2016'",
+					",user,'DEV01844',sysdate);",
+					"'",
+					",",
+					"'",
+					"",
+					"c.cdld_clbt",
+					"c.cdld_clsg",
+					"c.cdld_cdlg",
+					"",
+					"c.cdld_clnt",
+					"c.cdld_ecos",
+					"c.CDLD_CURR",
+					"'",
+					",",
+					"s_year_2",
+					"s_month_2",
+					"s_month_1",
+					"s_year_1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14248,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4971,
+										4933
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2669.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10,
+										10
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/X/Documents/Elia/sql/Desktop/Nidal Collector work queue.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21258,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20792,
+										20792
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 7500.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/X/Documents/Elia/sql/Desktop/Gaby Wedding list payments.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15022,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										273,
+										273
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/Gaby request.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24565,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2731,
+										2740
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1000.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/DV_EBANKING_TRANSFER_RES.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30575,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3619,
+										4579
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2359.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/ATM CashDep new procedures.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 83389,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3872,
+										4009
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQLPlus/Oracle(SQL-PL-SQLPlus).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2033.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/X/Documents/Elia/sql/Desktop/Transfers online 24 7/ATM procedures updated.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 62072,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17584,
+										17589
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9894.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6624,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3028,
+										3028
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1646,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										29,
+										29
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/SQL/SQL.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 95.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,868,360,8,1096",
+			"project": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
