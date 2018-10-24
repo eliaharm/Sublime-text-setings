@@ -1,1 +1,1 @@
-{"dependencies": [], "sublime_text": "*", "platforms": ["*"], "version": "2.8.1", "url": "http://typescriptlang.org", "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins"}
+{"description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins", "sublime_text": "*", "version": "3.0.1", "url": "http://typescriptlang.org", "platforms": ["*"], "dependencies": []}

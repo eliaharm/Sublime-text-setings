@@ -3,7 +3,6 @@
 	"color_scheme": "Packages/User/SublimeLinter/All Hallow's Eve (Elia) (SL).tmTheme",
 	"font_face": "Fira Code",
 	"font_size": 10,
-  "ui_scale": 1.2,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -34,5 +33,6 @@
 	"line_padding_top": 1,
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"ui_scale": 1.2
 }
